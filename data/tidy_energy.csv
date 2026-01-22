@@ -37,7 +37,7 @@ C0000X0350-0370,DK,1995,2352.193,Denmark,Other / combined category
 C0000X0350-0370,EE,1995,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,1995,2467.498,Greece,Other / combined category
 C0000X0350-0370,ES,1995,5667.498,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,1995,66715.909,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,1995,66715.909,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,1995,952.193,Finland,Other / combined category
 C0000X0350-0370,FR,1995,2079.02,France,Other / combined category
 C0000X0350-0370,HR,1995,20.808,Croatia,Other / combined category
@@ -94,7 +94,7 @@ N900H,DK,1995,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,1995,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,1995,0.0,Greece,Heat pumps (renewable)
 N900H,ES,1995,4768.272,Spain,Heat pumps (renewable)
-N900H,EU27_2020,1995,68087.449,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,1995,68087.449,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,1995,1652.279,Finland,Heat pumps (renewable)
 N900H,FR,1995,32436.028,France,Heat pumps (renewable)
 N900H,HR,1995,0.0,Croatia,Heat pumps (renewable)
@@ -123,7 +123,7 @@ RA000,DK,1995,159.281,Denmark,Renewables (total)
 RA000,EE,1995,0.688,Estonia,Renewables (total)
 RA000,EL,1995,306.449,Greece,Renewables (total)
 RA000,ES,1995,2096.389,Spain,Renewables (total)
-RA000,EU27_2020,1995,30330.063,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,1995,30330.063,EU27 (total of EU),Renewables (total)
 RA000,FI,1995,1680.553,Finland,Renewables (total)
 RA000,FR,1995,6334.203,France,Renewables (total)
 RA000,HR,1995,489.407,Croatia,Renewables (total)
@@ -152,7 +152,7 @@ RA100,DK,1995,2.58,Denmark,Hydropower
 RA100,EE,1995,0.172,Estonia,Hydropower
 RA100,EL,1995,303.439,Greece,Hydropower
 RA100,ES,1995,1984.523,Spain,Hydropower
-RA100,EU27_2020,1995,27964.978,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,1995,27964.978,EU27 (total of EU),Hydropower
 RA100,FI,1995,1111.35,Finland,Hydropower
 RA100,FR,1995,6133.439,France,Hydropower
 RA100,HR,1995,488.633,Croatia,Hydropower
@@ -181,7 +181,7 @@ RA300,DK,1995,101.204,Denmark,Wind power
 RA300,EE,1995,0.0,Estonia,Wind power
 RA300,EL,1995,2.923,Greece,Wind power
 RA300,ES,1995,23.216,Spain,Wind power
-RA300,EU27_2020,1995,316.179,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,1995,316.179,EU27 (total of EU),Wind power
 RA300,FI,1995,0.946,Finland,Wind power
 RA300,FR,1995,0.405,France,Wind power
 RA300,HR,1995,0.0,Croatia,Wind power
@@ -210,7 +210,7 @@ RA410,DK,1995,0.0,Denmark,Solar photovoltaic
 RA410,EE,1995,0.0,Estonia,Solar photovoltaic
 RA410,EL,1995,0.0,Greece,Solar photovoltaic
 RA410,ES,1995,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,1995,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,1995,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,1995,0.0,Finland,Solar photovoltaic
 RA410,FR,1995,0.0,France,Solar photovoltaic
 RA410,HR,1995,0.0,Croatia,Solar photovoltaic
@@ -239,7 +239,7 @@ RA420,DK,1995,0.0,Denmark,Solar thermal
 RA420,EE,1995,0.0,Estonia,Solar thermal
 RA420,EL,1995,0.0,Greece,Solar thermal
 RA420,ES,1995,1.72,Spain,Solar thermal
-RA420,EU27_2020,1995,3.953,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,1995,3.953,EU27 (total of EU),Solar thermal
 RA420,FI,1995,0.072,Finland,Solar thermal
 RA420,FR,1995,0.065,France,Solar thermal
 RA420,HR,1995,0.0,Croatia,Solar thermal
@@ -268,7 +268,7 @@ RA500,DK,1995,0.0,Denmark,Other renewables
 RA500,EE,1995,0.0,Estonia,Other renewables
 RA500,EL,1995,0.0,Greece,Other renewables
 RA500,ES,1995,0.0,Spain,Other renewables
-RA500,EU27_2020,1995,43.63,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,1995,43.63,EU27 (total of EU),Other renewables
 RA500,FI,1995,0.0,Finland,Other renewables
 RA500,FR,1995,43.63,France,Other renewables
 RA500,HR,1995,0.0,Croatia,Other renewables
@@ -297,7 +297,7 @@ TOTAL,DK,1995,3160.743,Denmark,All energy sources
 TOTAL,EE,1995,747.463,Estonia,All energy sources
 TOTAL,EL,1995,3572.829,Greece,All energy sources
 TOTAL,ES,1995,14367.154,Spain,All energy sources
-TOTAL,EU27_2020,1995,207167.726,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,1995,207167.726,EU27 (total of EU),All energy sources
 TOTAL,FI,1995,5506.005,Finland,All energy sources
 TOTAL,FR,1995,42499.91,France,All energy sources
 TOTAL,HR,1995,797.575,Croatia,All energy sources
@@ -354,7 +354,7 @@ C0000X0350-0370,DK,1996,3410.576,Denmark,Other / combined category
 C0000X0350-0370,EE,1996,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,1996,2519.175,Greece,Other / combined category
 C0000X0350-0370,ES,1996,4638.263,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,1996,68155.33,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,1996,68155.33,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,1996,1299.828,Finland,Other / combined category
 C0000X0350-0370,FR,1996,2410.834,France,Other / combined category
 C0000X0350-0370,HR,1996,10.705,Croatia,Other / combined category
@@ -411,7 +411,7 @@ N900H,DK,1996,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,1996,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,1996,0.0,Greece,Heat pumps (renewable)
 N900H,ES,1996,4843.508,Spain,Heat pumps (renewable)
-N900H,EU27_2020,1996,71476.182,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,1996,71476.182,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,1996,1674.635,Finland,Heat pumps (renewable)
 N900H,FR,1996,34165.09,France,Heat pumps (renewable)
 N900H,HR,1996,0.0,Croatia,Heat pumps (renewable)
@@ -440,7 +440,7 @@ RA000,DK,1996,178.757,Denmark,Renewables (total)
 RA000,EE,1996,0.602,Estonia,Renewables (total)
 RA000,EL,1996,377.128,Greece,Renewables (total)
 RA000,ES,1996,3546.948,Spain,Renewables (total)
-RA000,EU27_2020,1996,30553.358,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,1996,30553.358,EU27 (total of EU),Renewables (total)
 RA000,FI,1996,1527.17,Finland,Renewables (total)
 RA000,FR,1996,5769.591,France,Renewables (total)
 RA000,HR,1996,676.844,Croatia,Renewables (total)
@@ -469,7 +469,7 @@ RA100,DK,1996,1.634,Denmark,Hydropower
 RA100,EE,1996,0.172,Estonia,Hydropower
 RA100,EL,1996,373.861,Greece,Hydropower
 RA100,ES,1996,3420.98,Spain,Hydropower
-RA100,EU27_2020,1996,28133.042,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,1996,28133.042,EU27 (total of EU),Hydropower
 RA100,FI,1996,1019.776,Finland,Hydropower
 RA100,FR,1996,5560.539,France,Hydropower
 RA100,HR,1996,676.071,Croatia,Hydropower
@@ -498,7 +498,7 @@ RA300,DK,1996,105.503,Denmark,Wind power
 RA300,EE,1996,0.0,Estonia,Wind power
 RA300,EL,1996,3.267,Greece,Wind power
 RA300,ES,1996,31.298,Spain,Wind power
-RA300,EU27_2020,1996,377.359,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,1996,377.359,EU27 (total of EU),Wind power
 RA300,FI,1996,0.946,Finland,Wind power
 RA300,FR,1996,0.639,France,Wind power
 RA300,HR,1996,0.0,Croatia,Wind power
@@ -527,7 +527,7 @@ RA410,DK,1996,0.0,Denmark,Solar photovoltaic
 RA410,EE,1996,0.0,Estonia,Solar photovoltaic
 RA410,EL,1996,0.0,Greece,Solar photovoltaic
 RA410,ES,1996,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,1996,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,1996,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,1996,0.0,Finland,Solar photovoltaic
 RA410,FR,1996,0.0,France,Solar photovoltaic
 RA410,HR,1996,0.0,Croatia,Solar photovoltaic
@@ -556,7 +556,7 @@ RA420,DK,1996,0.0,Denmark,Solar thermal
 RA420,EE,1996,0.0,Estonia,Solar thermal
 RA420,EL,1996,0.0,Greece,Solar thermal
 RA420,ES,1996,1.548,Spain,Solar thermal
-RA420,EU27_2020,1996,4.409,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,1996,4.409,EU27 (total of EU),Solar thermal
 RA420,FI,1996,0.084,Finland,Solar thermal
 RA420,FR,1996,0.102,France,Solar thermal
 RA420,HR,1996,0.0,Croatia,Solar thermal
@@ -585,7 +585,7 @@ RA500,DK,1996,0.0,Denmark,Other renewables
 RA500,EE,1996,0.0,Estonia,Other renewables
 RA500,EL,1996,0.0,Greece,Other renewables
 RA500,ES,1996,0.0,Spain,Other renewables
-RA500,EU27_2020,1996,42.188,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,1996,42.188,EU27 (total of EU),Other renewables
 RA500,FI,1996,0.0,Finland,Other renewables
 RA500,FR,1996,42.188,France,Other renewables
 RA500,HR,1996,0.0,Croatia,Other renewables
@@ -614,7 +614,7 @@ TOTAL,DK,1996,4607.218,Denmark,All energy sources
 TOTAL,EE,1996,782.717,Estonia,All energy sources
 TOTAL,EL,1996,3660.103,Greece,All energy sources
 TOTAL,ES,1996,15000.774,Spain,All energy sources
-TOTAL,EU27_2020,1996,214509.425,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,1996,214509.425,EU27 (total of EU),All energy sources
 TOTAL,FI,1996,5965.003,Finland,All energy sources
 TOTAL,FR,1996,44144.266,France,All energy sources
 TOTAL,HR,1996,960.679,Croatia,All energy sources
@@ -671,7 +671,7 @@ C0000X0350-0370,DK,1997,2472.571,Denmark,Other / combined category
 C0000X0350-0370,EE,1997,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,1997,2633.62,Greece,Other / combined category
 C0000X0350-0370,ES,1997,5388.564,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,1997,65761.651,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,1997,65761.651,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,1997,1104.385,Finland,Other / combined category
 C0000X0350-0370,FR,1997,1906.965,France,Other / combined category
 C0000X0350-0370,HR,1997,43.938,Croatia,Other / combined category
@@ -728,7 +728,7 @@ N900H,DK,1997,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,1997,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,1997,0.0,Greece,Heat pumps (renewable)
 N900H,ES,1997,4754.772,Spain,Heat pumps (renewable)
-N900H,EU27_2020,1997,72181.944,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,1997,72181.944,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,1997,1796.561,Finland,Heat pumps (renewable)
 N900H,FR,1997,34005.417,France,Heat pumps (renewable)
 N900H,HR,1997,0.0,Croatia,Heat pumps (renewable)
@@ -757,7 +757,7 @@ RA000,DK,1997,251.815,Denmark,Renewables (total)
 RA000,EE,1997,0.946,Estonia,Renewables (total)
 RA000,EL,1997,336.887,Greece,Renewables (total)
 RA000,ES,1997,3179.45,Spain,Renewables (total)
-RA000,EU27_2020,1997,31534.633,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,1997,31534.633,EU27 (total of EU),Renewables (total)
 RA000,FI,1997,1732.692,Finland,Renewables (total)
 RA000,FR,1997,5571.798,France,Renewables (total)
 RA000,HR,1997,503.388,Croatia,Renewables (total)
@@ -786,7 +786,7 @@ RA100,DK,1997,1.634,Denmark,Hydropower
 RA100,EE,1997,0.258,Estonia,Hydropower
 RA100,EL,1997,333.792,Greece,Hydropower
 RA100,ES,1997,2988.22,Spain,Hydropower
-RA100,EU27_2020,1997,28526.001,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,1997,28526.001,EU27 (total of EU),Hydropower
 RA100,FI,1997,1052.623,Finland,Hydropower
 RA100,FR,1997,5340.726,France,Hydropower
 RA100,HR,1997,503.302,Croatia,Hydropower
@@ -815,7 +815,7 @@ RA300,DK,1997,166.294,Denmark,Wind power
 RA300,EE,1997,0.0,Estonia,Wind power
 RA300,EL,1997,3.095,Greece,Wind power
 RA300,ES,1997,63.801,Spain,Wind power
-RA300,EU27_2020,1997,575.559,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,1997,575.559,EU27 (total of EU),Wind power
 RA300,FI,1997,1.462,Finland,Wind power
 RA300,FR,1997,0.957,France,Wind power
 RA300,HR,1997,0.0,Croatia,Wind power
@@ -844,7 +844,7 @@ RA410,DK,1997,0.0,Denmark,Solar photovoltaic
 RA410,EE,1997,0.0,Estonia,Solar photovoltaic
 RA410,EL,1997,0.0,Greece,Solar photovoltaic
 RA410,ES,1997,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,1997,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,1997,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,1997,0.0,Finland,Solar photovoltaic
 RA410,FR,1997,0.0,France,Solar photovoltaic
 RA410,HR,1997,0.0,Croatia,Solar photovoltaic
@@ -873,7 +873,7 @@ RA420,DK,1997,0.0,Denmark,Solar thermal
 RA420,EE,1997,0.0,Estonia,Solar thermal
 RA420,EL,1997,0.0,Greece,Solar thermal
 RA420,ES,1997,1.634,Spain,Solar thermal
-RA420,EU27_2020,1997,5.283,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,1997,5.283,EU27 (total of EU),Solar thermal
 RA420,FI,1997,0.104,Finland,Solar thermal
 RA420,FR,1997,0.148,France,Solar thermal
 RA420,HR,1997,0.0,Croatia,Solar thermal
@@ -902,7 +902,7 @@ RA500,DK,1997,0.0,Denmark,Other renewables
 RA500,EE,1997,0.0,Estonia,Other renewables
 RA500,EL,1997,0.0,Greece,Other renewables
 RA500,ES,1997,0.0,Spain,Other renewables
-RA500,EU27_2020,1997,43.81,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,1997,43.81,EU27 (total of EU),Other renewables
 RA500,FI,1997,0.0,Finland,Other renewables
 RA500,FR,1997,43.81,France,Other renewables
 RA500,HR,1997,0.0,Croatia,Other renewables
@@ -931,7 +931,7 @@ TOTAL,DK,1997,3810.37,Denmark,All energy sources
 TOTAL,EE,1997,792.605,Estonia,All energy sources
 TOTAL,EL,1997,3740.843,Greece,All energy sources
 TOTAL,ES,1997,16371.625,Spain,All energy sources
-TOTAL,EU27_2020,1997,215478.409,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,1997,215478.409,EU27 (total of EU),All energy sources
 TOTAL,FI,1997,5948.083,Finland,All energy sources
 TOTAL,FR,1997,43402.37,France,All energy sources
 TOTAL,HR,1997,881.204,Croatia,All energy sources
@@ -988,7 +988,7 @@ C0000X0350-0370,DK,1998,2033.792,Denmark,Other / combined category
 C0000X0350-0370,EE,1998,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,1998,2789.51,Greece,Other / combined category
 C0000X0350-0370,ES,1998,5295.357,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,1998,66508.6,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,1998,66508.6,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,1998,682.717,Finland,Other / combined category
 C0000X0350-0370,FR,1998,2883.233,France,Other / combined category
 C0000X0350-0370,HR,1998,46.26,Croatia,Other / combined category
@@ -1045,7 +1045,7 @@ N900H,DK,1998,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,1998,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,1998,0.0,Greece,Heat pumps (renewable)
 N900H,ES,1998,5072.485,Spain,Heat pumps (renewable)
-N900H,EU27_2020,1998,71656.491,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,1998,71656.491,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,1998,1879.02,Finland,Heat pumps (renewable)
 N900H,FR,1998,33361.135,France,Heat pumps (renewable)
 N900H,HR,1998,0.0,Croatia,Heat pumps (renewable)
@@ -1074,7 +1074,7 @@ RA000,DK,1998,337.489,Denmark,Renewables (total)
 RA000,EE,1998,1.376,Estonia,Renewables (total)
 RA000,EL,1998,325.623,Greece,Renewables (total)
 RA000,ES,1998,3172.329,Spain,Renewables (total)
-RA000,EU27_2020,1998,33078.659,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,1998,33078.659,EU27 (total of EU),Renewables (total)
 RA000,FI,1998,2098.735,Finland,Renewables (total)
 RA000,FR,1998,5455.37,France,Renewables (total)
 RA000,HR,1998,518.521,Croatia,Renewables (total)
@@ -1103,7 +1103,7 @@ RA100,DK,1998,2.322,Denmark,Hydropower
 RA100,EE,1998,0.344,Estonia,Hydropower
 RA100,EL,1998,319.604,Greece,Hydropower
 RA100,ES,1998,2922.528,Spain,Hydropower
-RA100,EU27_2020,1998,29488.008,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,1998,29488.008,EU27 (total of EU),Hydropower
 RA100,FI,1998,1294.153,Finland,Hydropower
 RA100,FR,1998,5225.419,France,Hydropower
 RA100,HR,1998,517.747,Croatia,Hydropower
@@ -1132,7 +1132,7 @@ RA300,DK,1998,242.476,Denmark,Wind power
 RA300,EE,1998,0.0,Estonia,Wind power
 RA300,EL,1998,6.019,Greece,Wind power
 RA300,ES,1998,116.251,Spain,Wind power
-RA300,EU27_2020,1998,894.198,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,1998,894.198,EU27 (total of EU),Wind power
 RA300,FI,1998,1.978,Finland,Wind power
 RA300,FR,1998,1.676,France,Wind power
 RA300,HR,1998,0.0,Croatia,Wind power
@@ -1161,7 +1161,7 @@ RA410,DK,1998,0.0,Denmark,Solar photovoltaic
 RA410,EE,1998,0.0,Estonia,Solar photovoltaic
 RA410,EL,1998,0.0,Greece,Solar photovoltaic
 RA410,ES,1998,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,1998,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,1998,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,1998,0.0,Finland,Solar photovoltaic
 RA410,FR,1998,0.0,France,Solar photovoltaic
 RA410,HR,1998,0.0,Croatia,Solar photovoltaic
@@ -1190,7 +1190,7 @@ RA420,DK,1998,0.0,Denmark,Solar thermal
 RA420,EE,1998,0.0,Estonia,Solar thermal
 RA420,EL,1998,0.0,Greece,Solar thermal
 RA420,ES,1998,1.908,Spain,Solar thermal
-RA420,EU27_2020,1998,7.267,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,1998,7.267,EU27 (total of EU),Solar thermal
 RA420,FI,1998,0.111,Finland,Solar thermal
 RA420,FR,1998,0.184,France,Solar thermal
 RA420,HR,1998,0.0,Croatia,Solar thermal
@@ -1219,7 +1219,7 @@ RA500,DK,1998,0.0,Denmark,Other renewables
 RA500,EE,1998,0.0,Estonia,Other renewables
 RA500,EL,1998,0.0,Greece,Other renewables
 RA500,ES,1998,0.0,Spain,Other renewables
-RA500,EU27_2020,1998,44.858,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,1998,44.858,EU27 (total of EU),Other renewables
 RA500,FI,1998,0.0,Finland,Other renewables
 RA500,FR,1998,44.858,France,Other renewables
 RA500,HR,1998,0.0,Croatia,Other renewables
@@ -1248,7 +1248,7 @@ TOTAL,DK,1998,3535.082,Denmark,All energy sources
 TOTAL,EE,1998,735.77,Estonia,All energy sources
 TOTAL,EL,1998,3983.577,Greece,All energy sources
 TOTAL,ES,1998,16785.571,Spain,All energy sources
-TOTAL,EU27_2020,1998,220083.166,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,1998,220083.166,EU27 (total of EU),All energy sources
 TOTAL,FI,1998,6033.301,Finland,All energy sources
 TOTAL,FR,1998,43961.88,France,All energy sources
 TOTAL,HR,1998,985.512,Croatia,All energy sources
@@ -1305,7 +1305,7 @@ C0000X0350-0370,DK,1999,1726.655,Denmark,Other / combined category
 C0000X0350-0370,EE,1999,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,1999,2784.265,Greece,Other / combined category
 C0000X0350-0370,ES,1999,6329.235,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,1999,65242.219,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,1999,65242.219,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,1999,769.304,Finland,Other / combined category
 C0000X0350-0370,FR,1999,2517.541,France,Other / combined category
 C0000X0350-0370,HR,1999,44.368,Croatia,Other / combined category
@@ -1362,7 +1362,7 @@ N900H,DK,1999,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,1999,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,1999,0.0,Greece,Heat pumps (renewable)
 N900H,ES,1999,5060.361,Spain,Heat pumps (renewable)
-N900H,EU27_2020,1999,72936.456,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,1999,72936.456,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,1999,1975.408,Finland,Heat pumps (renewable)
 N900H,FR,1999,33898.882,France,Heat pumps (renewable)
 N900H,HR,1999,0.0,Croatia,Heat pumps (renewable)
@@ -1391,7 +1391,7 @@ RA000,DK,1999,376.526,Denmark,Renewables (total)
 RA000,EE,1999,1.376,Estonia,Renewables (total)
 RA000,EL,1999,408.856,Greece,Renewables (total)
 RA000,ES,1999,2339.639,Spain,Renewables (total)
-RA000,EU27_2020,1999,33220.782,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,1999,33220.782,EU27 (total of EU),Renewables (total)
 RA000,FI,1999,1822.306,Finland,Renewables (total)
 RA000,FR,1999,6338.198,France,Renewables (total)
 RA000,HR,1999,630.8,Croatia,Renewables (total)
@@ -1420,7 +1420,7 @@ RA100,DK,1999,2.666,Denmark,Hydropower
 RA100,EE,1999,0.344,Estonia,Hydropower
 RA100,EL,1999,394.841,Greece,Hydropower
 RA100,ES,1999,1962.425,Spain,Hydropower
-RA100,EU27_2020,1999,29305.846,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,1999,29305.846,EU27 (total of EU),Hydropower
 RA100,FI,1999,1098.882,Finland,Hydropower
 RA100,FR,1999,6089.5,France,Hydropower
 RA100,HR,1999,630.026,Croatia,Hydropower
@@ -1449,7 +1449,7 @@ RA300,DK,1999,260.447,Denmark,Wind power
 RA300,EE,1999,0.0,Estonia,Wind power
 RA300,EL,1999,13.929,Greece,Wind power
 RA300,ES,1999,235.942,Spain,Wind power
-RA300,EU27_2020,1999,1148.387,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,1999,1148.387,EU27 (total of EU),Wind power
 RA300,FI,1999,4.213,Finland,Wind power
 RA300,FR,1999,3.177,France,Wind power
 RA300,HR,1999,0.0,Croatia,Wind power
@@ -1478,7 +1478,7 @@ RA410,DK,1999,0.0,Denmark,Solar photovoltaic
 RA410,EE,1999,0.0,Estonia,Solar photovoltaic
 RA410,EL,1999,0.0,Greece,Solar photovoltaic
 RA410,ES,1999,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,1999,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,1999,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,1999,0.0,Finland,Solar photovoltaic
 RA410,FR,1999,0.0,France,Solar photovoltaic
 RA410,HR,1999,0.0,Croatia,Solar photovoltaic
@@ -1507,7 +1507,7 @@ RA420,DK,1999,0.086,Denmark,Solar thermal
 RA420,EE,1999,0.0,Estonia,Solar thermal
 RA420,EL,1999,0.0,Greece,Solar thermal
 RA420,ES,1999,2.15,Spain,Solar thermal
-RA420,EU27_2020,1999,7.479,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,1999,7.479,EU27 (total of EU),Solar thermal
 RA420,FI,1999,0.122,Finland,Solar thermal
 RA420,FR,1999,0.209,France,Solar thermal
 RA420,HR,1999,0.0,Croatia,Solar thermal
@@ -1536,7 +1536,7 @@ RA500,DK,1999,0.0,Denmark,Other renewables
 RA500,EE,1999,0.0,Estonia,Other renewables
 RA500,EL,1999,0.0,Greece,Other renewables
 RA500,ES,1999,0.0,Spain,Other renewables
-RA500,EU27_2020,1999,44.281,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,1999,44.281,EU27 (total of EU),Other renewables
 RA500,FI,1999,0.0,Finland,Other renewables
 RA500,FR,1999,44.281,France,Other renewables
 RA500,HR,1999,0.0,Croatia,Other renewables
@@ -1565,7 +1565,7 @@ TOTAL,DK,1999,3346.518,Denmark,All energy sources
 TOTAL,EE,1999,711.78,Estonia,All energy sources
 TOTAL,EL,1999,4267.584,Greece,All energy sources
 TOTAL,ES,1999,17906.019,Spain,All energy sources
-TOTAL,EU27_2020,1999,222383.672,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,1999,222383.672,EU27 (total of EU),All energy sources
 TOTAL,FI,1999,5972.263,Finland,All energy sources
 TOTAL,FR,1999,45211.198,France,All energy sources
 TOTAL,HR,1999,1116.028,Croatia,All energy sources
@@ -1622,7 +1622,7 @@ C0000X0350-0370,DK,2000,1433.62,Denmark,Other / combined category
 C0000X0350-0370,EE,2000,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2000,2950.387,Greece,Other / combined category
 C0000X0350-0370,ES,2000,6800.86,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2000,68816.854,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2000,68816.854,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2000,729.751,Finland,Other / combined category
 C0000X0350-0370,FR,2000,2321.926,France,Other / combined category
 C0000X0350-0370,HR,2000,133.362,Croatia,Other / combined category
@@ -1679,7 +1679,7 @@ N900H,DK,2000,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2000,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2000,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2000,5348.753,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2000,73940.672,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2000,73940.672,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2000,1932.846,Finland,Heat pumps (renewable)
 N900H,FR,2000,35697.506,France,Heat pumps (renewable)
 N900H,HR,2000,0.0,Croatia,Heat pumps (renewable)
@@ -1708,7 +1708,7 @@ RA000,DK,2000,479.106,Denmark,Renewables (total)
 RA000,EE,2000,1.569,Estonia,Renewables (total)
 RA000,EL,2000,356.32,Greece,Renewables (total)
 RA000,ES,2000,2965.606,Spain,Renewables (total)
-RA000,EU27_2020,2000,34995.602,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2000,34995.602,EU27 (total of EU),Renewables (total)
 RA000,FI,2000,2010.198,Finland,Renewables (total)
 RA000,FR,2000,5831.441,France,Renewables (total)
 RA000,HR,2000,554.936,Croatia,Renewables (total)
@@ -1737,7 +1737,7 @@ RA100,DK,2000,2.58,Denmark,Hydropower
 RA100,EE,2000,0.43,Estonia,Hydropower
 RA100,EL,2000,317.541,Greece,Hydropower
 RA100,ES,2000,2429.579,Spain,Hydropower
-RA100,EU27_2020,2000,30110.361,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2000,30110.361,EU27 (total of EU),Hydropower
 RA100,FI,2000,1260.533,Finland,Hydropower
 RA100,FR,2000,5570.074,France,Hydropower
 RA100,HR,2000,554.85,Croatia,Hydropower
@@ -1766,7 +1766,7 @@ RA300,DK,2000,364.66,Denmark,Wind power
 RA300,EE,2000,0.0,Estonia,Wind power
 RA300,EL,2000,38.779,Greece,Wind power
 RA300,ES,2000,406.449,Spain,Wind power
-RA300,EU27_2020,2000,1829.754,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2000,1829.754,EU27 (total of EU),Wind power
 RA300,FI,2000,6.707,Finland,Wind power
 RA300,FR,2000,4.141,France,Wind power
 RA300,HR,2000,0.0,Croatia,Wind power
@@ -1795,7 +1795,7 @@ RA410,DK,2000,0.0,Denmark,Solar photovoltaic
 RA410,EE,2000,0.0,Estonia,Solar photovoltaic
 RA410,EL,2000,0.0,Greece,Solar photovoltaic
 RA410,ES,2000,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2000,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2000,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2000,0.0,Finland,Solar photovoltaic
 RA410,FR,2000,0.0,France,Solar photovoltaic
 RA410,HR,2000,0.0,Croatia,Solar photovoltaic
@@ -1824,7 +1824,7 @@ RA420,DK,2000,0.086,Denmark,Solar thermal
 RA420,EE,2000,0.0,Estonia,Solar thermal
 RA420,EL,2000,0.0,Greece,Solar thermal
 RA420,ES,2000,1.204,Spain,Solar thermal
-RA420,EU27_2020,2000,9.736,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2000,9.736,EU27 (total of EU),Solar thermal
 RA420,FI,2000,0.136,Finland,Solar thermal
 RA420,FR,2000,0.449,France,Solar thermal
 RA420,HR,2000,0.0,Croatia,Solar thermal
@@ -1853,7 +1853,7 @@ RA500,DK,2000,0.0,Denmark,Other renewables
 RA500,EE,2000,0.0,Estonia,Other renewables
 RA500,EL,2000,0.0,Greece,Other renewables
 RA500,ES,2000,0.0,Spain,Other renewables
-RA500,EU27_2020,2000,43.621,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2000,43.621,EU27 (total of EU),Other renewables
 RA500,FI,2000,0.0,Finland,Other renewables
 RA500,FR,2000,43.621,France,Other renewables
 RA500,HR,2000,0.0,Croatia,Other renewables
@@ -1882,7 +1882,7 @@ TOTAL,DK,2000,3100.0,Denmark,All energy sources
 TOTAL,EE,2000,732.008,Estonia,All energy sources
 TOTAL,EL,2000,4629.665,Greece,All energy sources
 TOTAL,ES,2000,19300.774,Spain,All energy sources
-TOTAL,EU27_2020,2000,228572.927,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2000,228572.927,EU27 (total of EU),All energy sources
 TOTAL,FI,2000,6016.759,Finland,All energy sources
 TOTAL,FR,2000,46427.768,France,All energy sources
 TOTAL,HR,2000,970.009,Croatia,All energy sources
@@ -1939,7 +1939,7 @@ C0000X0350-0370,DK,2001,1532.158,Denmark,Other / combined category
 C0000X0350-0370,EE,2001,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2001,3046.518,Greece,Other / combined category
 C0000X0350-0370,ES,2001,6042.132,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2001,68177.644,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2001,68177.644,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2001,912.64,Finland,Other / combined category
 C0000X0350-0370,FR,2001,1760.791,France,Other / combined category
 C0000X0350-0370,HR,2001,140.843,Croatia,Other / combined category
@@ -1996,7 +1996,7 @@ N900H,DK,2001,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2001,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2001,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2001,5477.902,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2001,76430.955,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2001,76430.955,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2001,1958.126,Finland,Heat pumps (renewable)
 N900H,FR,2001,36206.019,France,Heat pumps (renewable)
 N900H,HR,2001,0.0,Croatia,Heat pumps (renewable)
@@ -2025,7 +2025,7 @@ RA000,DK,2001,502.666,Denmark,Renewables (total)
 RA000,EE,2001,1.548,Estonia,Renewables (total)
 RA000,EL,2001,252.107,Greece,Renewables (total)
 RA000,ES,2001,4238.607,Spain,Renewables (total)
-RA000,EU27_2020,2001,37518.087,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2001,37518.087,EU27 (total of EU),Renewables (total)
 RA000,FI,2001,1852.843,Finland,Renewables (total)
 RA000,FR,2001,6542.875,France,Renewables (total)
 RA000,HR,2001,617.403,Croatia,Renewables (total)
@@ -2054,7 +2054,7 @@ RA100,DK,2001,2.408,Denmark,Hydropower
 RA100,EE,2001,0.602,Estonia,Hydropower
 RA100,EL,2001,180.31,Greece,Hydropower
 RA100,ES,2001,3515.735,Spain,Hydropower
-RA100,EU27_2020,2001,32107.785,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2001,32107.785,EU27 (total of EU),Hydropower
 RA100,FI,2001,1135.426,Finland,Hydropower
 RA100,FR,2001,6244.394,France,Hydropower
 RA100,HR,2001,617.403,Croatia,Hydropower
@@ -2083,7 +2083,7 @@ RA300,DK,2001,370.249,Denmark,Wind power
 RA300,EE,2001,0.0,Estonia,Wind power
 RA300,EL,2001,65.004,Greece,Wind power
 RA300,ES,2001,581.169,Spain,Wind power
-RA300,EU27_2020,2001,2213.587,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2001,2213.587,EU27 (total of EU),Wind power
 RA300,FI,2001,6.019,Finland,Wind power
 RA300,FR,2001,11.285,France,Wind power
 RA300,HR,2001,0.0,Croatia,Wind power
@@ -2112,7 +2112,7 @@ RA410,DK,2001,0.0,Denmark,Solar photovoltaic
 RA410,EE,2001,0.0,Estonia,Solar photovoltaic
 RA410,EL,2001,0.0,Greece,Solar photovoltaic
 RA410,ES,2001,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2001,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2001,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2001,0.0,Finland,Solar photovoltaic
 RA410,FR,2001,0.0,France,Solar photovoltaic
 RA410,HR,2001,0.0,Croatia,Solar photovoltaic
@@ -2141,7 +2141,7 @@ RA420,DK,2001,0.086,Denmark,Solar thermal
 RA420,EE,2001,0.0,Estonia,Solar thermal
 RA420,EL,2001,0.0,Greece,Solar thermal
 RA420,ES,2001,1.462,Spain,Solar thermal
-RA420,EU27_2020,2001,15.521,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2001,15.521,EU27 (total of EU),Solar thermal
 RA420,FI,2001,0.147,Finland,Solar thermal
 RA420,FR,2001,0.53,France,Solar thermal
 RA420,HR,2001,0.0,Croatia,Solar thermal
@@ -2170,7 +2170,7 @@ RA500,DK,2001,0.0,Denmark,Other renewables
 RA500,EE,2001,0.0,Estonia,Other renewables
 RA500,EL,2001,0.0,Greece,Other renewables
 RA500,ES,2001,0.0,Spain,Other renewables
-RA500,EU27_2020,2001,41.697,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2001,41.697,EU27 (total of EU),Other renewables
 RA500,FI,2001,0.0,Finland,Other renewables
 RA500,FR,2001,41.697,France,Other renewables
 RA500,HR,2001,0.0,Croatia,Other renewables
@@ -2199,7 +2199,7 @@ TOTAL,DK,2001,3244.11,Denmark,All energy sources
 TOTAL,EE,2001,729.407,Estonia,All energy sources
 TOTAL,EL,2001,4617.713,Greece,All energy sources
 TOTAL,ES,2001,20295.443,Spain,All energy sources
-TOTAL,EU27_2020,2001,235085.792,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2001,235085.792,EU27 (total of EU),All energy sources
 TOTAL,FI,2001,6404.762,Finland,All energy sources
 TOTAL,FR,2001,47251.14,France,All energy sources
 TOTAL,HR,2001,1101.333,Croatia,All energy sources
@@ -2256,7 +2256,7 @@ C0000X0350-0370,DK,2002,1569.819,Denmark,Other / combined category
 C0000X0350-0370,EE,2002,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2002,2972.141,Greece,Other / combined category
 C0000X0350-0370,ES,2002,6980.396,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2002,70021.84,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2002,70021.84,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2002,1092.519,Finland,Other / combined category
 C0000X0350-0370,FR,2002,2034.222,France,Other / combined category
 C0000X0350-0370,HR,2002,181.341,Croatia,Other / combined category
@@ -2313,7 +2313,7 @@ N900H,DK,2002,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2002,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2002,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2002,5418.401,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2002,77587.962,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2002,77587.962,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2002,1917.025,Finland,Heat pumps (renewable)
 N900H,FR,2002,37554.6,France,Heat pumps (renewable)
 N900H,HR,2002,0.0,Croatia,Heat pumps (renewable)
@@ -2342,7 +2342,7 @@ RA000,DK,2002,583.749,Denmark,Renewables (total)
 RA000,EE,2002,2.58,Estonia,Renewables (total)
 RA000,EL,2002,307.567,Greece,Renewables (total)
 RA000,ES,2002,2852.107,Spain,Renewables (total)
-RA000,EU27_2020,2002,33533.908,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2002,33533.908,EU27 (total of EU),Renewables (total)
 RA000,FI,2002,1705.131,Finland,Renewables (total)
 RA000,FR,2002,5390.228,France,Renewables (total)
 RA000,HR,2002,503.13,Croatia,Renewables (total)
@@ -2371,7 +2371,7 @@ RA100,DK,2002,2.752,Denmark,Hydropower
 RA100,EE,2002,0.516,Estonia,Hydropower
 RA100,EL,2002,240.757,Greece,Hydropower
 RA100,ES,2002,1824.936,Spain,Hydropower
-RA100,EU27_2020,2002,26879.172,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2002,26879.172,EU27 (total of EU),Hydropower
 RA100,FI,2002,926.569,Finland,Hydropower
 RA100,FR,2002,5062.617,France,Hydropower
 RA100,HR,2002,503.13,Croatia,Hydropower
@@ -2400,7 +2400,7 @@ RA300,DK,2002,419.347,Denmark,Wind power
 RA300,EE,2002,0.086,Estonia,Wind power
 RA300,EL,2002,55.976,Greece,Wind power
 RA300,ES,2002,803.267,Spain,Wind power
-RA300,EU27_2020,2002,3015.388,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2002,3015.388,EU27 (total of EU),Wind power
 RA300,FI,2002,5.503,Finland,Wind power
 RA300,FR,2002,22.837,France,Wind power
 RA300,HR,2002,0.0,Croatia,Wind power
@@ -2429,7 +2429,7 @@ RA410,DK,2002,0.0,Denmark,Solar photovoltaic
 RA410,EE,2002,0.0,Estonia,Solar photovoltaic
 RA410,EL,2002,0.0,Greece,Solar photovoltaic
 RA410,ES,2002,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2002,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2002,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2002,0.0,Finland,Solar photovoltaic
 RA410,FR,2002,0.0,France,Solar photovoltaic
 RA410,HR,2002,0.0,Croatia,Solar photovoltaic
@@ -2458,7 +2458,7 @@ RA420,DK,2002,0.086,Denmark,Solar thermal
 RA420,EE,2002,0.0,Estonia,Solar thermal
 RA420,EL,2002,0.0,Greece,Solar thermal
 RA420,ES,2002,1.548,Spain,Solar thermal
-RA420,EU27_2020,2002,22.892,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2002,22.892,EU27 (total of EU),Solar thermal
 RA420,FI,2002,0.16,Finland,Solar thermal
 RA420,FR,2002,0.611,France,Solar thermal
 RA420,HR,2002,0.0,Croatia,Solar thermal
@@ -2487,7 +2487,7 @@ RA500,DK,2002,0.0,Denmark,Other renewables
 RA500,EE,2002,0.0,Estonia,Other renewables
 RA500,EL,2002,0.0,Greece,Other renewables
 RA500,ES,2002,0.0,Spain,Other renewables
-RA500,EU27_2020,2002,42.514,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2002,42.514,EU27 (total of EU),Other renewables
 RA500,FI,2002,0.0,Finland,Other renewables
 RA500,FR,2002,42.514,France,Other renewables
 RA500,HR,2002,0.0,Croatia,Other renewables
@@ -2516,7 +2516,7 @@ TOTAL,DK,2002,3378.074,Denmark,All energy sources
 TOTAL,EE,2002,733.19,Estonia,All energy sources
 TOTAL,EL,2002,4695.443,Greece,All energy sources
 TOTAL,ES,2002,21061.995,Spain,All energy sources
-TOTAL,EU27_2020,2002,237034.764,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2002,237034.764,EU27 (total of EU),All energy sources
 TOTAL,FI,2002,6445.157,Finland,All energy sources
 TOTAL,FR,2002,48070.915,France,All energy sources
 TOTAL,HR,2002,1098.229,Croatia,All energy sources
@@ -2573,7 +2573,7 @@ C0000X0350-0370,DK,2003,2176.01,Denmark,Other / combined category
 C0000X0350-0370,EE,2003,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2003,3024.076,Greece,Other / combined category
 C0000X0350-0370,ES,2003,6424.936,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2003,73013.243,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2003,73013.243,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2003,1655.03,Finland,Other / combined category
 C0000X0350-0370,FR,2003,2257.954,France,Other / combined category
 C0000X0350-0370,HR,2003,206.707,Croatia,Other / combined category
@@ -2630,7 +2630,7 @@ N900H,DK,2003,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2003,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2003,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2003,5320.292,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2003,78002.924,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2003,78002.924,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2003,1954.514,Finland,Heat pumps (renewable)
 N900H,FR,2003,37925.193,France,Heat pumps (renewable)
 N900H,HR,2003,0.0,Croatia,Heat pumps (renewable)
@@ -2659,7 +2659,7 @@ RA000,DK,2003,694.583,Denmark,Renewables (total)
 RA000,EE,2003,4.213,Estonia,Renewables (total)
 RA000,EL,2003,506.621,Greece,Renewables (total)
 RA000,ES,2003,4794.669,Spain,Renewables (total)
-RA000,EU27_2020,2003,34177.397,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2003,34177.397,EU27 (total of EU),Renewables (total)
 RA000,FI,2003,1639.328,Finland,Renewables (total)
 RA000,FR,2003,5285.04,France,Renewables (total)
 RA000,HR,2003,469.286,Croatia,Renewables (total)
@@ -2688,7 +2688,7 @@ RA100,DK,2003,1.806,Denmark,Hydropower
 RA100,EE,2003,1.118,Estonia,Hydropower
 RA100,EL,2003,409.802,Greece,Hydropower
 RA100,ES,2003,3480.911,Spain,Hydropower
-RA100,EU27_2020,2003,26195.753,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2003,26195.753,EU27 (total of EU),Hydropower
 RA100,FI,2003,824.678,Finland,Hydropower
 RA100,FR,2003,4931.395,France,Hydropower
 RA100,HR,2003,469.286,Croatia,Hydropower
@@ -2717,7 +2717,7 @@ RA300,DK,2003,478.16,Denmark,Wind power
 RA300,EE,2003,0.516,Estonia,Wind power
 RA300,EL,2003,87.79,Greece,Wind power
 RA300,ES,2003,1038.263,Spain,Wind power
-RA300,EU27_2020,2003,3724.406,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2003,3724.406,EU27 (total of EU),Wind power
 RA300,FI,2003,7.997,Finland,Wind power
 RA300,FR,2003,33.34,France,Wind power
 RA300,HR,2003,0.0,Croatia,Wind power
@@ -2746,7 +2746,7 @@ RA410,DK,2003,0.0,Denmark,Solar photovoltaic
 RA410,EE,2003,0.0,Estonia,Solar photovoltaic
 RA410,EL,2003,0.0,Greece,Solar photovoltaic
 RA410,ES,2003,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2003,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2003,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2003,0.0,Finland,Solar photovoltaic
 RA410,FR,2003,0.0,France,Solar photovoltaic
 RA410,HR,2003,0.0,Croatia,Solar photovoltaic
@@ -2775,7 +2775,7 @@ RA420,DK,2003,0.172,Denmark,Solar thermal
 RA420,EE,2003,0.0,Estonia,Solar thermal
 RA420,EL,2003,0.0,Greece,Solar thermal
 RA420,ES,2003,1.72,Spain,Solar thermal
-RA420,EU27_2020,2003,35.713,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2003,35.713,EU27 (total of EU),Solar thermal
 RA420,FI,2003,0.18,Finland,Solar thermal
 RA420,FR,2003,0.668,France,Solar thermal
 RA420,HR,2003,0.0,Croatia,Solar thermal
@@ -2804,7 +2804,7 @@ RA500,DK,2003,0.0,Denmark,Other renewables
 RA500,EE,2003,0.0,Estonia,Other renewables
 RA500,EL,2003,0.0,Greece,Other renewables
 RA500,ES,2003,0.0,Spain,Other renewables
-RA500,EU27_2020,2003,42.164,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2003,42.164,EU27 (total of EU),Other renewables
 RA500,FI,2003,0.0,Finland,Other renewables
 RA500,FR,2003,42.164,France,Other renewables
 RA500,HR,2003,0.0,Croatia,Other renewables
@@ -2833,7 +2833,7 @@ TOTAL,DK,2003,3971.281,Denmark,All energy sources
 TOTAL,EE,2003,873.517,Estonia,All energy sources
 TOTAL,EL,2003,5027.601,Greece,All energy sources
 TOTAL,ES,2003,22416.681,Spain,All energy sources
-TOTAL,EU27_2020,2003,243940.924,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2003,243940.924,EU27 (total of EU),All energy sources
 TOTAL,FI,2003,7250.847,Finland,All energy sources
 TOTAL,FR,2003,48739.34,France,All energy sources
 TOTAL,HR,2003,1139.475,Croatia,All energy sources
@@ -2890,7 +2890,7 @@ C0000X0350-0370,DK,2004,1605.589,Denmark,Other / combined category
 C0000X0350-0370,EE,2004,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2004,3042.132,Greece,Other / combined category
 C0000X0350-0370,ES,2004,6801.892,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2004,71846.174,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2004,71846.174,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2004,1418.487,Finland,Other / combined category
 C0000X0350-0370,FR,2004,2095.615,France,Other / combined category
 C0000X0350-0370,HR,2004,183.921,Croatia,Other / combined category
@@ -2947,7 +2947,7 @@ N900H,DK,2004,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2004,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2004,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2004,5469.132,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2004,79831.299,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2004,79831.299,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2004,1953.224,Finland,Heat pumps (renewable)
 N900H,FR,2004,38541.788,France,Heat pumps (renewable)
 N900H,HR,2004,0.0,Croatia,Heat pumps (renewable)
@@ -2976,7 +2976,7 @@ RA000,DK,2004,818.487,Denmark,Renewables (total)
 RA000,EE,2004,5.159,Estonia,Renewables (total)
 RA000,EL,2004,508.832,Greece,Renewables (total)
 RA000,ES,2004,4311.039,Spain,Renewables (total)
-RA000,EU27_2020,2004,37850.035,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2004,37850.035,EU27 (total of EU),Renewables (total)
 RA000,FI,2004,2203.945,Finland,Renewables (total)
 RA000,FR,2004,5367.725,France,Renewables (total)
 RA000,HR,2004,656.285,Croatia,Renewables (total)
@@ -3005,7 +3005,7 @@ RA100,DK,2004,2.322,Denmark,Hydropower
 RA100,EE,2004,1.892,Estonia,Hydropower
 RA100,EL,2004,401.721,Greece,Hydropower
 RA100,ES,2004,2672.743,Spain,Hydropower
-RA100,EU27_2020,2004,27790.954,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2004,27790.954,EU27 (total of EU),Hydropower
 RA100,FI,2004,1295.754,Finland,Hydropower
 RA100,FR,2004,4990.642,France,Hydropower
 RA100,HR,2004,655.77,Croatia,Hydropower
@@ -3034,7 +3034,7 @@ RA300,DK,2004,566.036,Denmark,Wind power
 RA300,EE,2004,0.688,Estonia,Wind power
 RA300,EL,2004,96.368,Greece,Wind power
 RA300,ES,2004,1349.957,Spain,Wind power
-RA300,EU27_2020,2004,4947.341,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2004,4947.341,EU27 (total of EU),Wind power
 RA300,FI,2004,10.348,Finland,Wind power
 RA300,FR,2004,51.148,France,Wind power
 RA300,HR,2004,0.172,Croatia,Wind power
@@ -3063,7 +3063,7 @@ RA410,DK,2004,0.0,Denmark,Solar photovoltaic
 RA410,EE,2004,0.0,Estonia,Solar photovoltaic
 RA410,EL,2004,0.0,Greece,Solar photovoltaic
 RA410,ES,2004,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2004,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2004,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2004,0.0,Finland,Solar photovoltaic
 RA410,FR,2004,0.0,France,Solar photovoltaic
 RA410,HR,2004,0.0,Croatia,Solar photovoltaic
@@ -3092,7 +3092,7 @@ RA420,DK,2004,0.172,Denmark,Solar thermal
 RA420,EE,2004,0.0,Estonia,Solar thermal
 RA420,EL,2004,0.067,Greece,Solar thermal
 RA420,ES,2004,2.042,Spain,Solar thermal
-RA420,EU27_2020,2004,59.409,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2004,59.409,EU27 (total of EU),Solar thermal
 RA420,FI,2004,0.203,Finland,Solar thermal
 RA420,FR,2004,0.726,France,Solar thermal
 RA420,HR,2004,0.0,Croatia,Solar thermal
@@ -3121,7 +3121,7 @@ RA500,DK,2004,0.0,Denmark,Other renewables
 RA500,EE,2004,0.0,Estonia,Other renewables
 RA500,EL,2004,0.0,Greece,Other renewables
 RA500,ES,2004,0.0,Spain,Other renewables
-RA500,EU27_2020,2004,40.428,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2004,40.428,EU27 (total of EU),Other renewables
 RA500,FI,2004,0.0,Finland,Other renewables
 RA500,FR,2004,40.428,France,Other renewables
 RA500,HR,2004,0.0,Croatia,Other renewables
@@ -3150,7 +3150,7 @@ TOTAL,DK,2004,3476.354,Denmark,All energy sources
 TOTAL,EE,2004,885.985,Estonia,All energy sources
 TOTAL,EL,2004,5102.819,Greece,All energy sources
 TOTAL,ES,2004,24073.463,Spain,All energy sources
-TOTAL,EU27_2020,2004,250046.015,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2004,250046.015,EU27 (total of EU),All energy sources
 TOTAL,FI,2004,7381.373,Finland,All energy sources
 TOTAL,FR,2004,49359.794,France,All energy sources
 TOTAL,HR,2004,1202.898,Croatia,All energy sources
@@ -3207,7 +3207,7 @@ C0000X0350-0370,DK,2005,1329.579,Denmark,Other / combined category
 C0000X0350-0370,EE,2005,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2005,3056.148,Greece,Other / combined category
 C0000X0350-0370,ES,2005,6797.334,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2005,69551.349,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2005,69551.349,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2005,558.641,Finland,Other / combined category
 C0000X0350-0370,FR,2005,2365.864,France,Other / combined category
 C0000X0350-0370,HR,2005,200.172,Croatia,Other / combined category
@@ -3264,7 +3264,7 @@ N900H,DK,2005,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2005,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2005,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2005,4947.463,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2005,78768.787,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2005,78768.787,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2005,2000.946,Finland,Heat pumps (renewable)
 N900H,FR,2005,38824.506,France,Heat pumps (renewable)
 N900H,HR,2005,0.0,Croatia,Heat pumps (renewable)
@@ -3293,7 +3293,7 @@ RA000,DK,2005,843.68,Denmark,Renewables (total)
 RA000,EE,2005,9.573,Estonia,Renewables (total)
 RA000,EL,2005,550.834,Greece,Renewables (total)
 RA000,ES,2005,3634.549,Spain,Renewables (total)
-RA000,EU27_2020,2005,38131.728,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2005,38131.728,EU27 (total of EU),Renewables (total)
 RA000,FI,2005,2017.953,Finland,Renewables (total)
 RA000,FR,2005,4727.783,France,Renewables (total)
 RA000,HR,2005,607.008,Croatia,Renewables (total)
@@ -3322,7 +3322,7 @@ RA100,DK,2005,1.978,Denmark,Hydropower
 RA100,EE,2005,1.892,Estonia,Hydropower
 RA100,EL,2005,431.408,Greece,Hydropower
 RA100,ES,2005,1581.513,Spain,Hydropower
-RA100,EU27_2020,2005,26398.121,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2005,26398.121,EU27 (total of EU),Hydropower
 RA100,FI,2005,1185.211,Finland,Hydropower
 RA100,FR,2005,4311.191,France,Hydropower
 RA100,HR,2005,604.944,Croatia,Hydropower
@@ -3351,7 +3351,7 @@ RA300,DK,2005,568.702,Denmark,Wind power
 RA300,EE,2005,4.643,Estonia,Wind power
 RA300,EL,2005,108.895,Greece,Wind power
 RA300,ES,2005,1820.808,Spain,Wind power
-RA300,EU27_2020,2005,5856.667,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2005,5856.667,EU27 (total of EU),Wind power
 RA300,FI,2005,14.612,Finland,Wind power
 RA300,FR,2005,82.766,France,Wind power
 RA300,HR,2005,0.86,Croatia,Wind power
@@ -3380,7 +3380,7 @@ RA410,DK,2005,0.0,Denmark,Solar photovoltaic
 RA410,EE,2005,0.0,Estonia,Solar photovoltaic
 RA410,EL,2005,0.0,Greece,Solar photovoltaic
 RA410,ES,2005,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2005,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2005,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2005,0.0,Finland,Solar photovoltaic
 RA410,FR,2005,0.0,France,Solar photovoltaic
 RA410,HR,2005,0.0,Croatia,Solar photovoltaic
@@ -3409,7 +3409,7 @@ RA420,DK,2005,0.172,Denmark,Solar thermal
 RA420,EE,2005,0.0,Estonia,Solar thermal
 RA420,EL,2005,0.082,Greece,Solar thermal
 RA420,ES,2005,4.125,Spain,Solar thermal
-RA420,EU27_2020,2005,125.425,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2005,125.425,EU27 (total of EU),Solar thermal
 RA420,FI,2005,0.226,Finland,Solar thermal
 RA420,FR,2005,0.903,France,Solar thermal
 RA420,HR,2005,0.0,Croatia,Solar thermal
@@ -3438,7 +3438,7 @@ RA500,DK,2005,0.0,Denmark,Other renewables
 RA500,EE,2005,0.0,Estonia,Other renewables
 RA500,EL,2005,0.0,Greece,Other renewables
 RA500,ES,2005,0.0,Spain,Other renewables
-RA500,EU27_2020,2005,41.35,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2005,41.35,EU27 (total of EU),Other renewables
 RA500,FI,2005,0.0,Finland,Other renewables
 RA500,FR,2005,41.35,France,Other renewables
 RA500,HR,2005,0.0,Croatia,Other renewables
@@ -3467,7 +3467,7 @@ TOTAL,DK,2005,3116.595,Denmark,All energy sources
 TOTAL,EE,2005,877.501,Estonia,All energy sources
 TOTAL,EL,2005,5160.803,Greece,All energy sources
 TOTAL,ES,2005,25286.656,Spain,All energy sources
-TOTAL,EU27_2020,2005,251647.733,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2005,251647.733,EU27 (total of EU),All energy sources
 TOTAL,FI,2005,6069.095,Finland,All energy sources
 TOTAL,FR,2005,49532.403,France,All energy sources
 TOTAL,HR,2005,1131.685,Croatia,All energy sources
@@ -3524,7 +3524,7 @@ C0000X0350-0370,DK,2006,2112.296,Denmark,Other / combined category
 C0000X0350-0370,EE,2006,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2006,2774.205,Greece,Other / combined category
 C0000X0350-0370,ES,2006,5738.521,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2006,70206.283,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2006,70206.283,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2006,1404.213,Finland,Other / combined category
 C0000X0350-0370,FR,2006,1968.1,France,Other / combined category
 C0000X0350-0370,HR,2006,194.067,Croatia,Other / combined category
@@ -3581,7 +3581,7 @@ N900H,DK,2006,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2006,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2006,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2006,5169.905,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2006,78626.481,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2006,78626.481,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2006,1969.561,Finland,Heat pumps (renewable)
 N900H,FR,2006,38709.458,France,Heat pumps (renewable)
 N900H,HR,2006,0.0,Croatia,Heat pumps (renewable)
@@ -3610,7 +3610,7 @@ RA000,DK,2006,791.144,Denmark,Renewables (total)
 RA000,EE,2006,11.161,Estonia,Renewables (total)
 RA000,EL,2006,660.336,Greece,Renewables (total)
 RA000,ES,2006,4484.52,Spain,Renewables (total)
-RA000,EU27_2020,2006,40169.548,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2006,40169.548,EU27 (total of EU),Renewables (total)
 RA000,FI,2006,1931.784,Finland,Renewables (total)
 RA000,FR,2006,5237.652,France,Renewables (total)
 RA000,HR,2006,571.539,Croatia,Renewables (total)
@@ -3639,7 +3639,7 @@ RA100,DK,2006,1.978,Denmark,Hydropower
 RA100,EE,2006,1.161,Estonia,Hydropower
 RA100,EL,2006,504.286,Greece,Hydropower
 RA100,ES,2006,2232.072,Spain,Hydropower
-RA100,EU27_2020,2006,26654.086,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2006,26654.086,EU27 (total of EU),Hydropower
 RA100,FI,2006,988.28,Finland,Hydropower
 RA100,FR,2006,4718.654,France,Hydropower
 RA100,HR,2006,568.96,Croatia,Hydropower
@@ -3668,7 +3668,7 @@ RA300,DK,2006,525.193,Denmark,Wind power
 RA300,EE,2006,6.561,Estonia,Wind power
 RA300,EL,2006,146.118,Greece,Wind power
 RA300,ES,2006,2003.181,Spain,Wind power
-RA300,EU27_2020,2006,6770.263,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2006,6770.263,EU27 (total of EU),Wind power
 RA300,FI,2006,13.383,Finland,Wind power
 RA300,FR,2006,187.668,France,Wind power
 RA300,HR,2006,1.634,Croatia,Wind power
@@ -3697,7 +3697,7 @@ RA410,DK,2006,0.0,Denmark,Solar photovoltaic
 RA410,EE,2006,0.0,Estonia,Solar photovoltaic
 RA410,EL,2006,0.0,Greece,Solar photovoltaic
 RA410,ES,2006,0.0,Spain,Solar photovoltaic
-RA410,EU27_2020,2006,0.0,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2006,0.0,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2006,0.0,Finland,Solar photovoltaic
 RA410,FR,2006,0.0,France,Solar photovoltaic
 RA410,HR,2006,0.0,Croatia,Solar photovoltaic
@@ -3726,7 +3726,7 @@ RA420,DK,2006,0.172,Denmark,Solar thermal
 RA420,EE,2006,0.0,Estonia,Solar thermal
 RA420,EL,2006,0.119,Greece,Solar thermal
 RA420,ES,2006,10.745,Spain,Solar thermal
-RA420,EU27_2020,2006,214.056,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2006,214.056,EU27 (total of EU),Solar thermal
 RA420,FI,2006,0.291,Finland,Solar thermal
 RA420,FR,2006,1.041,France,Solar thermal
 RA420,HR,2006,0.0,Croatia,Solar thermal
@@ -3755,7 +3755,7 @@ RA500,DK,2006,0.0,Denmark,Other renewables
 RA500,EE,2006,0.0,Estonia,Other renewables
 RA500,EL,2006,0.0,Greece,Other renewables
 RA500,ES,2006,0.0,Spain,Other renewables
-RA500,EU27_2020,2006,39.92,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2006,39.92,EU27 (total of EU),Other renewables
 RA500,FI,2006,0.0,Finland,Other renewables
 RA500,FR,2006,39.92,France,Other renewables
 RA500,HR,2006,0.0,Croatia,Other renewables
@@ -3784,7 +3784,7 @@ TOTAL,DK,2006,3921.84,Denmark,All energy sources
 TOTAL,EE,2006,836.784,Estonia,All energy sources
 TOTAL,EL,2006,5226.974,Greece,All energy sources
 TOTAL,ES,2006,25748.922,Spain,All energy sources
-TOTAL,EU27_2020,2006,255700.632,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2006,255700.632,EU27 (total of EU),All energy sources
 TOTAL,FI,2006,7077.587,Finland,All energy sources
 TOTAL,FR,2006,49429.978,France,All energy sources
 TOTAL,HR,2006,1121.84,Croatia,All energy sources
@@ -3841,7 +3841,7 @@ C0000X0350-0370,DK,2007,1710.318,Denmark,Other / combined category
 C0000X0350-0370,EE,2007,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2007,2981.599,Greece,Other / combined category
 C0000X0350-0370,ES,2007,6259.243,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2007,71264.437,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2007,71264.437,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2007,1200.0,Finland,Other / combined category
 C0000X0350-0370,FR,2007,2101.978,France,Other / combined category
 C0000X0350-0370,HR,2007,208.34,Croatia,Other / combined category
@@ -3898,7 +3898,7 @@ N900H,DK,2007,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2007,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2007,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2007,4738.005,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2007,74999.915,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2007,74999.915,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2007,2014.015,Finland,Heat pumps (renewable)
 N900H,FR,2007,37809.974,France,Heat pumps (renewable)
 N900H,HR,2007,0.0,Croatia,Heat pumps (renewable)
@@ -3927,7 +3927,7 @@ RA000,DK,2007,886.071,Denmark,Renewables (total)
 RA000,EE,2007,12.516,Estonia,Renewables (total)
 RA000,EL,2007,395.085,Greece,Renewables (total)
 RA000,ES,2007,5012.056,Spain,Renewables (total)
-RA000,EU27_2020,2007,42656.432,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2007,42656.432,EU27 (total of EU),Renewables (total)
 RA000,FI,2007,2091.513,Finland,Renewables (total)
 RA000,FR,2007,5528.282,France,Renewables (total)
 RA000,HR,2007,407.713,Croatia,Renewables (total)
@@ -3956,7 +3956,7 @@ RA100,DK,2007,2.408,Denmark,Hydropower
 RA100,EE,2007,1.876,Estonia,Hydropower
 RA100,EL,2007,222.822,Greece,Hydropower
 RA100,ES,2007,2348.151,Spain,Hydropower
-RA100,EU27_2020,2007,26457.845,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2007,26457.845,EU27 (total of EU),Hydropower
 RA100,FI,2007,1219.02,Finland,Hydropower
 RA100,FR,2007,4814.269,France,Hydropower
 RA100,HR,2007,404.11,Croatia,Hydropower
@@ -3985,7 +3985,7 @@ RA300,DK,2007,616.595,Denmark,Wind power
 RA300,EE,2007,7.806,Estonia,Wind power
 RA300,EL,2007,156.32,Greece,Wind power
 RA300,ES,2007,2370.421,Spain,Wind power
-RA300,EU27_2020,2007,8593.286,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2007,8593.286,EU27 (total of EU),Wind power
 RA300,FI,2007,16.2,Finland,Wind power
 RA300,FR,2007,349.966,France,Wind power
 RA300,HR,2007,3.001,Croatia,Wind power
@@ -4014,7 +4014,7 @@ RA410,DK,2007,0.0,Denmark,Solar photovoltaic
 RA410,EE,2007,0.0,Estonia,Solar photovoltaic
 RA410,EL,2007,0.0,Greece,Solar photovoltaic
 RA410,ES,2007,0.689,Spain,Solar photovoltaic
-RA410,EU27_2020,2007,0.689,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2007,0.689,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2007,0.0,Finland,Solar photovoltaic
 RA410,FR,2007,0.0,France,Solar photovoltaic
 RA410,HR,2007,0.0,Croatia,Solar photovoltaic
@@ -4043,7 +4043,7 @@ RA420,DK,2007,0.172,Denmark,Solar thermal
 RA420,EE,2007,0.0,Estonia,Solar thermal
 RA420,EL,2007,0.122,Greece,Solar thermal
 RA420,ES,2007,43.611,Spain,Solar thermal
-RA420,EU27_2020,2007,323.862,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2007,323.862,EU27 (total of EU),Solar thermal
 RA420,FI,2007,0.328,Finland,Solar thermal
 RA420,FR,2007,1.511,France,Solar thermal
 RA420,HR,2007,0.0,Croatia,Solar thermal
@@ -4072,7 +4072,7 @@ RA500,DK,2007,0.0,Denmark,Other renewables
 RA500,EE,2007,0.0,Estonia,Other renewables
 RA500,EL,2007,0.0,Greece,Other renewables
 RA500,ES,2007,0.0,Spain,Other renewables
-RA500,EU27_2020,2007,40.008,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2007,40.008,EU27 (total of EU),Other renewables
 RA500,FI,2007,0.0,Finland,Other renewables
 RA500,FR,2007,40.008,France,Other renewables
 RA500,HR,2007,0.0,Croatia,Other renewables
@@ -4101,7 +4101,7 @@ TOTAL,DK,2007,3380.567,Denmark,All energy sources
 TOTAL,EE,2007,1048.199,Estonia,All energy sources
 TOTAL,EL,2007,5459.746,Greece,All energy sources
 TOTAL,ES,2007,26230.37,Spain,All energy sources
-TOTAL,EU27_2020,2007,256905.72,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2007,256905.72,EU27 (total of EU),All energy sources
 TOTAL,FI,2007,6985.928,Finland,All energy sources
 TOTAL,FR,2007,48991.263,France,All energy sources
 TOTAL,HR,2007,1092.666,Croatia,All energy sources
@@ -4158,7 +4158,7 @@ C0000X0350-0370,DK,2008,1501.462,Denmark,Other / combined category
 C0000X0350-0370,EE,2008,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2008,2868.1,Greece,Other / combined category
 C0000X0350-0370,ES,2008,4188.65,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2008,65094.846,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2008,65094.846,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2008,731.9,Finland,Other / combined category
 C0000X0350-0370,FR,2008,1983.061,France,Other / combined category
 C0000X0350-0370,HR,2008,214.531,Croatia,Other / combined category
@@ -4215,7 +4215,7 @@ N900H,DK,2008,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2008,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2008,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2008,5070.765,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2008,76073.001,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2008,76073.001,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2008,1974.033,Finland,Heat pumps (renewable)
 N900H,FR,2008,37785.641,France,Heat pumps (renewable)
 N900H,HR,2008,0.0,Croatia,Heat pumps (renewable)
@@ -4244,7 +4244,7 @@ RA000,DK,2008,868.1,Denmark,Renewables (total)
 RA000,EE,2008,17.025,Estonia,Renewables (total)
 RA000,EL,2008,494.487,Greece,Renewables (total)
 RA000,ES,2008,5343.349,Spain,Renewables (total)
-RA000,EU27_2020,2008,46481.723,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2008,46481.723,EU27 (total of EU),Renewables (total)
 RA000,FI,2008,2388.756,Finland,Renewables (total)
 RA000,FR,2008,6219.307,France,Renewables (total)
 RA000,HR,2008,502.236,Croatia,Renewables (total)
@@ -4273,7 +4273,7 @@ RA100,DK,2008,2.236,Denmark,Hydropower
 RA100,EE,2008,2.4,Estonia,Hydropower
 RA100,EL,2008,284.806,Greece,Hydropower
 RA100,ES,2008,2008.942,Spain,Hydropower
-RA100,EU27_2020,2008,27996.841,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2008,27996.841,EU27 (total of EU),Hydropower
 RA100,FI,2008,1471.379,Finland,Hydropower
 RA100,FR,2008,5344.671,France,Hydropower
 RA100,HR,2008,496.991,Croatia,Hydropower
@@ -4302,7 +4302,7 @@ RA300,DK,2008,595.701,Denmark,Wind power
 RA300,EE,2008,11.475,Estonia,Wind power
 RA300,EL,2008,192.777,Greece,Wind power
 RA300,ES,2008,2832.846,Spain,Wind power
-RA300,EU27_2020,2008,9739.884,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2008,9739.884,EU27 (total of EU),Wind power
 RA300,FI,2008,22.401,Finland,Wind power
 RA300,FR,2008,489.614,France,Wind power
 RA300,HR,2008,3.431,Croatia,Wind power
@@ -4331,7 +4331,7 @@ RA410,DK,2008,0.0,Denmark,Solar photovoltaic
 RA410,EE,2008,0.0,Estonia,Solar photovoltaic
 RA410,EL,2008,0.0,Greece,Solar photovoltaic
 RA410,ES,2008,1.388,Spain,Solar photovoltaic
-RA410,EU27_2020,2008,1.388,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2008,1.388,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2008,0.0,Finland,Solar photovoltaic
 RA410,FR,2008,0.0,France,Solar photovoltaic
 RA410,HR,2008,0.0,Croatia,Solar photovoltaic
@@ -4360,7 +4360,7 @@ RA420,DK,2008,0.258,Denmark,Solar thermal
 RA420,EE,2008,0.0,Estonia,Solar thermal
 RA420,EL,2008,0.45,Greece,Solar thermal
 RA420,ES,2008,220.292,Spain,Solar thermal
-RA420,EU27_2020,2008,638.131,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2008,638.131,EU27 (total of EU),Solar thermal
 RA420,FI,2008,0.339,Finland,Solar thermal
 RA420,FR,2008,3.585,France,Solar thermal
 RA420,HR,2008,0.0,Croatia,Solar thermal
@@ -4389,7 +4389,7 @@ RA500,DK,2008,0.0,Denmark,Other renewables
 RA500,EE,2008,0.0,Estonia,Other renewables
 RA500,EL,2008,0.0,Greece,Other renewables
 RA500,ES,2008,0.0,Spain,Other renewables
-RA500,EU27_2020,2008,39.993,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2008,39.993,EU27 (total of EU),Other renewables
 RA500,FI,2008,0.0,Finland,Other renewables
 RA500,FR,2008,39.993,France,Other renewables
 RA500,HR,2008,0.0,Croatia,Other renewables
@@ -4418,7 +4418,7 @@ TOTAL,DK,2008,3148.409,Denmark,All energy sources
 TOTAL,EE,2008,909.888,Estonia,All energy sources
 TOTAL,EL,2008,5481.503,Greece,All energy sources
 TOTAL,ES,2008,26978.345,Spain,All energy sources
-TOTAL,EU27_2020,2008,257846.499,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2008,257846.499,EU27 (total of EU),All energy sources
 TOTAL,FI,2008,6658.069,Finland,All energy sources
 TOTAL,FR,2008,49338.503,France,All energy sources
 TOTAL,HR,2008,1108.409,Croatia,All energy sources
@@ -4475,7 +4475,7 @@ C0000X0350-0370,DK,2009,1520.808,Denmark,Other / combined category
 C0000X0350-0370,EE,2009,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2009,2939.639,Greece,Other / combined category
 C0000X0350-0370,ES,2009,3087.704,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2009,60496.545,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2009,60496.545,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2009,957.008,Finland,Other / combined category
 C0000X0350-0370,FR,2009,1863.027,France,Other / combined category
 C0000X0350-0370,HR,2009,142.562,Croatia,Other / combined category
@@ -4532,7 +4532,7 @@ N900H,DK,2009,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2009,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2009,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2009,4536.629,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2009,70929.664,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2009,70929.664,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2009,2022.872,Finland,Heat pumps (renewable)
 N900H,FR,2009,35230.954,France,Heat pumps (renewable)
 N900H,HR,2009,0.0,Croatia,Heat pumps (renewable)
@@ -4561,7 +4561,7 @@ RA000,DK,2009,865.262,Denmark,Renewables (total)
 RA000,EE,2009,46.459,Estonia,Renewables (total)
 RA000,EL,2009,701.903,Greece,Renewables (total)
 RA000,ES,2009,6369.733,Spain,Renewables (total)
-RA000,EU27_2020,2009,49090.045,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2009,49090.045,EU27 (total of EU),Renewables (total)
 RA000,FI,2009,1865.946,Finland,Renewables (total)
 RA000,FR,2009,5860.558,France,Renewables (total)
 RA000,HR,2009,643.393,Croatia,Renewables (total)
@@ -4590,7 +4590,7 @@ RA100,DK,2009,1.634,Denmark,Hydropower
 RA100,EE,2009,2.75,Estonia,Hydropower
 RA100,EL,2009,460.237,Greece,Hydropower
 RA100,ES,2009,2270.937,Spain,Hydropower
-RA100,EU27_2020,2009,28288.851,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2009,28288.851,EU27 (total of EU),Hydropower
 RA100,FI,2009,1090.802,Finland,Hydropower
 RA100,FR,2009,4771.672,France,Hydropower
 RA100,HR,2009,637.008,Croatia,Hydropower
@@ -4619,7 +4619,7 @@ RA300,DK,2009,577.902,Denmark,Wind power
 RA300,EE,2009,16.815,Estonia,Wind power
 RA300,EL,2009,218.659,Greece,Wind power
 RA300,ES,2009,3277.472,Spain,Wind power
-RA300,EU27_2020,2009,10714.102,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2009,10714.102,EU27 (total of EU),Wind power
 RA300,FI,2009,23.785,Finland,Wind power
 RA300,FR,2009,680.273,France,Wind power
 RA300,HR,2009,4.66,Croatia,Wind power
@@ -4648,7 +4648,7 @@ RA410,DK,2009,0.0,Denmark,Solar photovoltaic
 RA410,EE,2009,0.0,Estonia,Solar photovoltaic
 RA410,EL,2009,0.0,Greece,Solar photovoltaic
 RA410,ES,2009,8.856,Spain,Solar photovoltaic
-RA410,EU27_2020,2009,8.856,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2009,8.856,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2009,0.0,Finland,Solar photovoltaic
 RA410,FR,2009,0.0,France,Solar photovoltaic
 RA410,HR,2009,0.0,Croatia,Solar photovoltaic
@@ -4677,7 +4677,7 @@ RA420,DK,2009,0.344,Denmark,Solar thermal
 RA420,EE,2009,0.0,Estonia,Solar thermal
 RA420,EL,2009,4.299,Greece,Solar thermal
 RA420,ES,2009,512.554,Spain,Solar thermal
-RA420,EU27_2020,2009,1203.869,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2009,1203.869,EU27 (total of EU),Solar thermal
 RA420,FI,2009,0.371,Finland,Solar thermal
 RA420,FR,2009,14.959,France,Solar thermal
 RA420,HR,2009,0.008,Croatia,Solar thermal
@@ -4706,7 +4706,7 @@ RA500,DK,2009,0.0,Denmark,Other renewables
 RA500,EE,2009,0.0,Estonia,Other renewables
 RA500,EL,2009,0.0,Greece,Other renewables
 RA500,ES,2009,0.0,Spain,Other renewables
-RA500,EU27_2020,2009,38.538,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2009,38.538,EU27 (total of EU),Other renewables
 RA500,FI,2009,0.0,Finland,Other renewables
 RA500,FR,2009,38.538,France,Other renewables
 RA500,HR,2009,0.0,Croatia,Other renewables
@@ -4735,7 +4735,7 @@ TOTAL,DK,2009,3128.375,Denmark,All energy sources
 TOTAL,EE,2009,754.8,Estonia,All energy sources
 TOTAL,EL,2009,5274.321,Greece,All energy sources
 TOTAL,ES,2009,25332.76,Spain,All energy sources
-TOTAL,EU27_2020,2009,244754.514,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2009,244754.514,EU27 (total of EU),All energy sources
 TOTAL,FI,2009,6196.99,Finland,All energy sources
 TOTAL,FR,2009,46081.267,France,All energy sources
 TOTAL,HR,2009,1156.841,Croatia,All energy sources
@@ -4792,7 +4792,7 @@ C0000X0350-0370,DK,2010,1462.253,Denmark,Other / combined category
 C0000X0350-0370,EE,2010,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2010,2648.065,Greece,Other / combined category
 C0000X0350-0370,ES,2010,2178.332,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2010,60294.939,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2010,60294.939,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2010,1250.473,Finland,Other / combined category
 C0000X0350-0370,FR,2010,2008.512,France,Other / combined category
 C0000X0350-0370,HR,2010,205.073,Croatia,Other / combined category
@@ -4849,7 +4849,7 @@ N900H,DK,2010,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2010,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2010,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2010,5330.181,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2010,73471.196,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2010,73471.196,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2010,1960.447,Finland,Heat pumps (renewable)
 N900H,FR,2010,36846.174,France,Heat pumps (renewable)
 N900H,HR,2010,0.0,Croatia,Heat pumps (renewable)
@@ -4878,7 +4878,7 @@ RA000,DK,2010,1068.717,Denmark,Renewables (total)
 RA000,EE,2010,89.758,Estonia,Renewables (total)
 RA000,EL,2010,905.971,Greece,Renewables (total)
 RA000,ES,2010,8407.24,Spain,Renewables (total)
-RA000,EU27_2020,2010,56115.486,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2010,56115.486,EU27 (total of EU),Renewables (total)
 RA000,FI,2010,2080.418,Finland,Renewables (total)
 RA000,FR,2010,6593.687,France,Renewables (total)
 RA000,HR,2010,799.524,Croatia,Renewables (total)
@@ -4907,7 +4907,7 @@ RA100,DK,2010,1.775,Denmark,Hydropower
 RA100,EE,2010,2.311,Estonia,Hydropower
 RA100,EL,2010,642.713,Greece,Hydropower
 RA100,ES,2010,3637.489,Spain,Hydropower
-RA100,EU27_2020,2010,31971.186,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2010,31971.186,EU27 (total of EU),Hydropower
 RA100,FI,2010,1111.091,Finland,Hydropower
 RA100,FR,2010,5262.441,France,Hydropower
 RA100,HR,2010,784.712,Croatia,Hydropower
@@ -4936,7 +4936,7 @@ RA300,DK,2010,671.489,Denmark,Wind power
 RA300,EE,2010,23.817,Estonia,Wind power
 RA300,EL,2010,233.357,Greece,Wind power
 RA300,ES,2010,3806.621,Spain,Wind power
-RA300,EU27_2020,2010,12028.614,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2010,12028.614,EU27 (total of EU),Wind power
 RA300,FI,2010,25.307,Finland,Wind power
 RA300,FR,2010,855.115,France,Wind power
 RA300,HR,2010,11.96,Croatia,Wind power
@@ -4965,7 +4965,7 @@ RA410,DK,2010,0.0,Denmark,Solar photovoltaic
 RA410,EE,2010,0.0,Estonia,Solar photovoltaic
 RA410,EL,2010,0.0,Greece,Solar photovoltaic
 RA410,ES,2010,65.451,Spain,Solar photovoltaic
-RA410,EU27_2020,2010,65.451,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2010,65.451,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2010,0.0,Finland,Solar photovoltaic
 RA410,FR,2010,0.0,France,Solar photovoltaic
 RA410,HR,2010,0.0,Croatia,Solar photovoltaic
@@ -4994,7 +4994,7 @@ RA420,DK,2010,0.518,Denmark,Solar thermal
 RA420,EE,2010,0.0,Estonia,Solar thermal
 RA420,EL,2010,13.564,Greece,Solar thermal
 RA420,ES,2010,552.451,Spain,Solar thermal
-RA420,EU27_2020,2010,1933.511,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2010,1933.511,EU27 (total of EU),Solar thermal
 RA420,FI,2010,0.407,Finland,Solar thermal
 RA420,FR,2010,53.31,France,Solar thermal
 RA420,HR,2010,0.01,Croatia,Solar thermal
@@ -5023,7 +5023,7 @@ RA500,DK,2010,0.0,Denmark,Other renewables
 RA500,EE,2010,0.0,Estonia,Other renewables
 RA500,EL,2010,0.0,Greece,Other renewables
 RA500,ES,2010,0.0,Spain,Other renewables
-RA500,EU27_2020,2010,40.963,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2010,40.963,EU27 (total of EU),Other renewables
 RA500,FI,2010,0.0,Finland,Other renewables
 RA500,FR,2010,40.963,France,Other renewables
 RA500,HR,2010,0.0,Croatia,Other renewables
@@ -5052,7 +5052,7 @@ TOTAL,DK,2010,3341.539,Denmark,All energy sources
 TOTAL,EE,2010,1114.693,Estonia,All energy sources
 TOTAL,EL,2010,4935.934,Greece,All energy sources
 TOTAL,ES,2010,25926.672,Spain,All energy sources
-TOTAL,EU27_2020,2010,256587.158,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2010,256587.158,EU27 (total of EU),All energy sources
 TOTAL,FI,2010,6936.609,Finland,All energy sources
 TOTAL,FR,2010,48949.967,France,All energy sources
 TOTAL,HR,2010,1281.381,Croatia,All energy sources
@@ -5109,7 +5109,7 @@ C0000X0350-0370,DK,2011,1201.72,Denmark,Other / combined category
 C0000X0350-0370,EE,2011,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2011,2670.937,Greece,Other / combined category
 C0000X0350-0370,ES,2011,3781.599,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2011,62323.887,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2011,62323.887,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2011,840.929,Finland,Other / combined category
 C0000X0350-0370,FR,2011,1495.656,France,Other / combined category
 C0000X0350-0370,HR,2011,222.012,Croatia,Other / combined category
@@ -5166,7 +5166,7 @@ N900H,DK,2011,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2011,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2011,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2011,4962.855,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2011,72035.147,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2011,72035.147,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2011,1993.723,Finland,Heat pumps (renewable)
 N900H,FR,2011,38038.501,France,Heat pumps (renewable)
 N900H,HR,2011,0.0,Croatia,Heat pumps (renewable)
@@ -5195,7 +5195,7 @@ RA000,DK,2011,1219.334,Denmark,Renewables (total)
 RA000,EE,2011,101.438,Estonia,Renewables (total)
 RA000,EL,2011,700.217,Greece,Renewables (total)
 RA000,ES,2011,7525.537,Spain,Renewables (total)
-RA000,EU27_2020,2011,55535.463,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2011,55535.463,EU27 (total of EU),Renewables (total)
 RA000,FI,2011,2078.81,Finland,Renewables (total)
 RA000,FR,2011,5699.186,France,Renewables (total)
 RA000,HR,2011,454.623,Croatia,Renewables (total)
@@ -5224,7 +5224,7 @@ RA100,DK,2011,1.45,Denmark,Hydropower
 RA100,EE,2011,2.582,Estonia,Hydropower
 RA100,EL,2011,344.898,Greece,Hydropower
 RA100,ES,2011,2630.782,Spain,Hydropower
-RA100,EU27_2020,2011,26433.826,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2011,26433.826,EU27 (total of EU),Hydropower
 RA100,FI,2011,1070.081,Finland,Hydropower
 RA100,FR,2011,3933.264,France,Hydropower
 RA100,HR,2011,432.664,Croatia,Hydropower
@@ -5253,7 +5253,7 @@ RA300,DK,2011,840.429,Denmark,Wind power
 RA300,EE,2011,31.699,Estonia,Wind power
 RA300,EL,2011,285.058,Greece,Wind power
 RA300,ES,2011,3690.284,Spain,Wind power
-RA300,EU27_2020,2011,14245.795,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2011,14245.795,EU27 (total of EU),Wind power
 RA300,FI,2011,41.392,Finland,Wind power
 RA300,FR,2011,1085.477,France,Wind power
 RA300,HR,2011,17.283,Croatia,Wind power
@@ -5282,7 +5282,7 @@ RA410,DK,2011,0.0,Denmark,Solar photovoltaic
 RA410,EE,2011,0.0,Estonia,Solar photovoltaic
 RA410,EL,2011,0.0,Greece,Solar photovoltaic
 RA410,ES,2011,168.444,Spain,Solar photovoltaic
-RA410,EU27_2020,2011,168.444,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2011,168.444,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2011,0.0,Finland,Solar photovoltaic
 RA410,FR,2011,0.0,France,Solar photovoltaic
 RA410,HR,2011,0.0,Croatia,Solar photovoltaic
@@ -5311,7 +5311,7 @@ RA420,DK,2011,1.285,Denmark,Solar thermal
 RA420,EE,2011,0.0,Estonia,Solar thermal
 RA420,EL,2011,52.477,Greece,Solar thermal
 RA420,ES,2011,639.725,Spain,Solar thermal
-RA420,EU27_2020,2011,3901.364,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2011,3901.364,EU27 (total of EU),Solar thermal
 RA420,FI,2011,0.456,Finland,Solar thermal
 RA420,FR,2011,200.671,France,Solar thermal
 RA420,HR,2011,0.012,Croatia,Solar thermal
@@ -5340,7 +5340,7 @@ RA500,DK,2011,0.0,Denmark,Other renewables
 RA500,EE,2011,0.0,Estonia,Other renewables
 RA500,EL,2011,0.0,Greece,Other renewables
 RA500,ES,2011,0.0,Spain,Other renewables
-RA500,EU27_2020,2011,41.039,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2011,41.039,EU27 (total of EU),Other renewables
 RA500,FI,2011,0.0,Finland,Other renewables
 RA500,FR,2011,41.039,France,Other renewables
 RA500,HR,2011,0.0,Croatia,Other renewables
@@ -5369,7 +5369,7 @@ TOTAL,DK,2011,3029.159,Denmark,All energy sources
 TOTAL,EE,2011,1108.66,Estonia,All energy sources
 TOTAL,EL,2011,5110.625,Greece,All energy sources
 TOTAL,ES,2011,25266.294,Spain,All energy sources
-TOTAL,EU27_2020,2011,253019.67,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2011,253019.67,EU27 (total of EU),All energy sources
 TOTAL,FI,2011,6320.068,Finland,All energy sources
 TOTAL,FR,2011,49321.629,France,All energy sources
 TOTAL,HR,2011,977.831,Croatia,All energy sources
@@ -5426,7 +5426,7 @@ C0000X0350-0370,DK,2012,906.191,Denmark,Other / combined category
 C0000X0350-0370,EE,2012,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2012,2675.752,Greece,Other / combined category
 C0000X0350-0370,ES,2012,4735.512,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2012,63861.966,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2012,63861.966,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2012,610.576,Finland,Other / combined category
 C0000X0350-0370,FR,2012,1844.925,France,Other / combined category
 C0000X0350-0370,HR,2012,192.433,Croatia,Other / combined category
@@ -5483,7 +5483,7 @@ N900H,DK,2012,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2012,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2012,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2012,5285.469,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2012,69816.081,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2012,69816.081,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2012,1976.526,Finland,Heat pumps (renewable)
 N900H,FR,2012,36578.333,France,Heat pumps (renewable)
 N900H,HR,2012,0.0,Croatia,Heat pumps (renewable)
@@ -5512,7 +5512,7 @@ RA000,DK,2012,1275.772,Denmark,Renewables (total)
 RA000,EE,2012,126.954,Estonia,Renewables (total)
 RA000,EL,2012,871.966,Greece,Renewables (total)
 RA000,ES,2012,7477.354,Spain,Renewables (total)
-RA000,EU27_2020,2012,62669.537,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2012,62669.537,EU27 (total of EU),Renewables (total)
 RA000,FI,2012,2455.648,Finland,Renewables (total)
 RA000,FR,2012,7356.764,France,Renewables (total)
 RA000,HR,2012,452.447,Croatia,Renewables (total)
@@ -5541,7 +5541,7 @@ RA100,DK,2012,1.503,Denmark,Hydropower
 RA100,EE,2012,3.616,Estonia,Hydropower
 RA100,EL,2012,377.689,Greece,Hydropower
 RA100,ES,2012,1766.552,Spain,Hydropower
-RA100,EU27_2020,2012,28518.713,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2012,28518.713,EU27 (total of EU),Hydropower
 RA100,FI,2012,1449.624,Finland,Hydropower
 RA100,FR,2012,5144.509,France,Hydropower
 RA100,HR,2012,415.899,Croatia,Hydropower
@@ -5570,7 +5570,7 @@ RA300,DK,2012,883.056,Denmark,Wind power
 RA300,EE,2012,37.276,Estonia,Wind power
 RA300,EL,2012,331.054,Greece,Wind power
 RA300,ES,2012,4253.826,Spain,Wind power
-RA300,EU27_2020,2012,16151.766,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2012,16151.766,EU27 (total of EU),Wind power
 RA300,FI,2012,42.504,Finland,Wind power
 RA300,FR,2012,1331.742,France,Wind power
 RA300,HR,2012,28.267,Croatia,Wind power
@@ -5599,7 +5599,7 @@ RA410,DK,2012,0.0,Denmark,Solar photovoltaic
 RA410,EE,2012,0.0,Estonia,Solar photovoltaic
 RA410,EL,2012,0.0,Greece,Solar photovoltaic
 RA410,ES,2012,324.595,Spain,Solar photovoltaic
-RA410,EU27_2020,2012,324.595,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2012,324.595,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2012,0.0,Finland,Solar photovoltaic
 RA410,FR,2012,0.0,France,Solar photovoltaic
 RA410,HR,2012,0.0,Croatia,Solar photovoltaic
@@ -5628,7 +5628,7 @@ RA420,DK,2012,8.93,Denmark,Solar thermal
 RA420,EE,2012,0.0,Estonia,Solar thermal
 RA420,EL,2012,145.657,Greece,Solar thermal
 RA420,ES,2012,704.435,Spain,Solar thermal
-RA420,EU27_2020,2012,5706.969,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2012,5706.969,EU27 (total of EU),Solar thermal
 RA420,FI,2012,0.494,Finland,Solar thermal
 RA420,FR,2012,380.734,France,Solar thermal
 RA420,HR,2012,0.207,Croatia,Solar thermal
@@ -5657,7 +5657,7 @@ RA500,DK,2012,0.0,Denmark,Other renewables
 RA500,EE,2012,0.0,Estonia,Other renewables
 RA500,EL,2012,0.0,Greece,Other renewables
 RA500,ES,2012,0.0,Spain,Other renewables
-RA500,EU27_2020,2012,39.38,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2012,39.38,EU27 (total of EU),Other renewables
 RA500,FI,2012,0.0,Finland,Other renewables
 RA500,FR,2012,39.38,France,Other renewables
 RA500,HR,2012,0.0,Croatia,Other renewables
@@ -5686,7 +5686,7 @@ TOTAL,DK,2012,2639.821,Denmark,All energy sources
 TOTAL,EE,2012,1028.932,Estonia,All energy sources
 TOTAL,EL,2012,5241.538,Greece,All energy sources
 TOTAL,ES,2012,25585.436,Spain,All energy sources
-TOTAL,EU27_2020,2012,252750.846,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2012,252750.846,EU27 (total of EU),All energy sources
 TOTAL,FI,2012,6054.15,Finland,All energy sources
 TOTAL,FR,2012,49277.503,France,All energy sources
 TOTAL,HR,2012,924.777,Croatia,All energy sources
@@ -5743,7 +5743,7 @@ C0000X0350-0370,DK,2013,1228.891,Denmark,Other / combined category
 C0000X0350-0370,EE,2013,1.118,Estonia,Other / combined category
 C0000X0350-0370,EL,2013,2270.507,Greece,Other / combined category
 C0000X0350-0370,ES,2013,3434.308,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2013,62676.717,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2013,62676.717,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2013,919.175,Finland,Other / combined category
 C0000X0350-0370,FR,2013,2050.161,France,Other / combined category
 C0000X0350-0370,HR,2013,208.169,Croatia,Other / combined category
@@ -5800,7 +5800,7 @@ N900H,DK,2013,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2013,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2013,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2013,4877.558,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2013,69322.671,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2013,69322.671,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2013,2029.751,Finland,Heat pumps (renewable)
 N900H,FR,2013,36430.324,France,Heat pumps (renewable)
 N900H,HR,2013,0.0,Croatia,Heat pumps (renewable)
@@ -5829,7 +5829,7 @@ RA000,DK,2013,1372.977,Denmark,Renewables (total)
 RA000,EE,2013,104.864,Estonia,Renewables (total)
 RA000,EL,2013,1233.927,Greece,Renewables (total)
 RA000,ES,2013,9579.094,Spain,Renewables (total)
-RA000,EU27_2020,2013,69443.346,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2013,69443.346,EU27 (total of EU),Renewables (total)
 RA000,FI,2013,2203.755,Finland,Renewables (total)
 RA000,FR,2013,8578.29,France,Renewables (total)
 RA000,HR,2013,797.589,Croatia,Renewables (total)
@@ -5858,7 +5858,7 @@ RA100,DK,2013,1.154,Denmark,Hydropower
 RA100,EE,2013,2.195,Estonia,Hydropower
 RA100,EL,2013,545.737,Greece,Hydropower
 RA100,ES,2013,3169.821,Spain,Hydropower
-RA100,EU27_2020,2013,31643.449,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2013,31643.449,EU27 (total of EU),Hydropower
 RA100,FI,2013,1103.921,Finland,Hydropower
 RA100,FR,2013,6184.044,France,Hydropower
 RA100,HR,2013,741.333,Croatia,Hydropower
@@ -5887,7 +5887,7 @@ RA300,DK,2013,956.429,Denmark,Wind power
 RA300,EE,2013,45.489,Estonia,Wind power
 RA300,EL,2013,355.902,Greece,Wind power
 RA300,ES,2013,4784.695,Spain,Wind power
-RA300,EU27_2020,2013,18047.258,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2013,18047.258,EU27 (total of EU),Wind power
 RA300,FI,2013,66.526,Finland,Wind power
 RA300,FR,2013,1415.85,France,Wind power
 RA300,HR,2013,44.479,Croatia,Wind power
@@ -5916,7 +5916,7 @@ RA410,DK,2013,0.0,Denmark,Solar photovoltaic
 RA410,EE,2013,0.0,Estonia,Solar photovoltaic
 RA410,EL,2013,0.0,Greece,Solar photovoltaic
 RA410,ES,2013,410.124,Spain,Solar photovoltaic
-RA410,EU27_2020,2013,410.124,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2013,410.124,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2013,0.0,Finland,Solar photovoltaic
 RA410,FR,2013,0.0,France,Solar photovoltaic
 RA410,HR,2013,0.0,Croatia,Solar photovoltaic
@@ -5945,7 +5945,7 @@ RA420,DK,2013,44.501,Denmark,Solar thermal
 RA420,EE,2013,0.0,Estonia,Solar thermal
 RA420,EL,2013,313.68,Greece,Solar thermal
 RA420,ES,2013,715.915,Spain,Solar thermal
-RA420,EU27_2020,2013,6823.899,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2013,6823.899,EU27 (total of EU),Solar thermal
 RA420,FI,2013,0.555,Finland,Solar thermal
 RA420,FR,2013,446.569,France,Solar thermal
 RA420,HR,2013,0.97,Croatia,Solar thermal
@@ -5974,7 +5974,7 @@ RA500,DK,2013,0.0,Denmark,Other renewables
 RA500,EE,2013,0.0,Estonia,Other renewables
 RA500,EL,2013,0.0,Greece,Other renewables
 RA500,ES,2013,0.0,Spain,Other renewables
-RA500,EU27_2020,2013,35.561,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2013,35.561,EU27 (total of EU),Other renewables
 RA500,FI,2013,0.0,Finland,Other renewables
 RA500,FR,2013,35.561,France,Other renewables
 RA500,HR,2013,0.0,Croatia,Other renewables
@@ -6003,7 +6003,7 @@ TOTAL,DK,2013,2987.341,Denmark,All energy sources
 TOTAL,EE,2013,1141.408,Estonia,All energy sources
 TOTAL,EL,2013,4914.233,Greece,All energy sources
 TOTAL,ES,2013,24559.856,Spain,All energy sources
-TOTAL,EU27_2020,2013,251195.23,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2013,251195.23,EU27 (total of EU),All energy sources
 TOTAL,FI,2013,6127.123,Finland,All energy sources
 TOTAL,FR,2013,50098.651,France,All energy sources
 TOTAL,HR,2013,1208.346,Croatia,All energy sources
@@ -6060,7 +6060,7 @@ C0000X0350-0370,DK,2014,951.333,Denmark,Other / combined category
 C0000X0350-0370,EE,2014,0.516,Estonia,Other / combined category
 C0000X0350-0370,EL,2014,2213.758,Greece,Other / combined category
 C0000X0350-0370,ES,2014,3766.724,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2014,59567.4,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2014,59567.4,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2014,681.427,Finland,Other / combined category
 C0000X0350-0370,FR,2014,967.941,France,Other / combined category
 C0000X0350-0370,HR,2014,203.611,Croatia,Other / combined category
@@ -6117,7 +6117,7 @@ N900H,DK,2014,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2014,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2014,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2014,4927.343,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2014,69866.724,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2014,69866.724,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2014,2027.515,Finland,Heat pumps (renewable)
 N900H,FR,2014,37530.439,France,Heat pumps (renewable)
 N900H,HR,2014,0.0,Croatia,Heat pumps (renewable)
@@ -6146,7 +6146,7 @@ RA000,DK,2014,1546.318,Denmark,Renewables (total)
 RA000,EE,2014,119.408,Estonia,Renewables (total)
 RA000,EL,2014,1047.158,Greece,Renewables (total)
 RA000,ES,2014,9481.335,Spain,Renewables (total)
-RA000,EU27_2020,2014,72060.996,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2014,72060.996,EU27 (total of EU),Renewables (total)
 RA000,FI,2014,2258.867,Finland,Renewables (total)
 RA000,FR,2014,8116.259,France,Renewables (total)
 RA000,HR,2014,854.329,Croatia,Renewables (total)
@@ -6175,7 +6175,7 @@ RA100,DK,2014,1.299,Denmark,Hydropower
 RA100,EE,2014,2.325,Estonia,Hydropower
 RA100,EL,2014,385.066,Greece,Hydropower
 RA100,ES,2014,3367.884,Spain,Hydropower
-RA100,EU27_2020,2014,31818.505,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2014,31818.505,EU27 (total of EU),Hydropower
 RA100,FI,2014,1151.938,Finland,Hydropower
 RA100,FR,2014,5483.459,France,Hydropower
 RA100,HR,2014,774.387,Croatia,Hydropower
@@ -6204,7 +6204,7 @@ RA300,DK,2014,1124.549,Denmark,Wind power
 RA300,EE,2014,51.907,Estonia,Wind power
 RA300,EL,2014,317.16,Greece,Wind power
 RA300,ES,2014,4472.313,Spain,Wind power
-RA300,EU27_2020,2014,19156.932,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2014,19156.932,EU27 (total of EU),Wind power
 RA300,FI,2014,95.2,Finland,Wind power
 RA300,FR,2014,1519.976,France,Wind power
 RA300,HR,2014,62.766,Croatia,Wind power
@@ -6233,7 +6233,7 @@ RA410,DK,2014,0.0,Denmark,Solar photovoltaic
 RA410,EE,2014,0.0,Estonia,Solar photovoltaic
 RA410,EL,2014,0.0,Greece,Solar photovoltaic
 RA410,ES,2014,469.029,Spain,Solar photovoltaic
-RA410,EU27_2020,2014,469.029,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2014,469.029,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2014,0.0,Finland,Solar photovoltaic
 RA410,FR,2014,0.0,France,Solar photovoltaic
 RA410,HR,2014,0.0,Croatia,Solar photovoltaic
@@ -6262,7 +6262,7 @@ RA420,DK,2014,51.205,Denmark,Solar thermal
 RA420,EE,2014,0.0,Estonia,Solar thermal
 RA420,EL,2014,326.043,Greece,Solar thermal
 RA420,ES,2014,706.59,Spain,Solar thermal
-RA420,EU27_2020,2014,7628.309,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2014,7628.309,EU27 (total of EU),Solar thermal
 RA420,FI,2014,0.667,Finland,Solar thermal
 RA420,FR,2014,549.58,France,Solar thermal
 RA420,HR,2014,3.024,Croatia,Solar thermal
@@ -6291,7 +6291,7 @@ RA500,DK,2014,0.0,Denmark,Other renewables
 RA500,EE,2014,0.0,Estonia,Other renewables
 RA500,EL,2014,0.0,Greece,Other renewables
 RA500,ES,2014,0.0,Spain,Other renewables
-RA500,EU27_2020,2014,41.318,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2014,41.318,EU27 (total of EU),Other renewables
 RA500,FI,2014,0.0,Finland,Other renewables
 RA500,FR,2014,41.316,France,Other renewables
 RA500,HR,2014,0.0,Croatia,Other renewables
@@ -6320,7 +6320,7 @@ TOTAL,DK,2014,2767.293,Denmark,All energy sources
 TOTAL,EE,2014,1070.139,Estonia,All energy sources
 TOTAL,EL,2014,4339.922,Greece,All energy sources
 TOTAL,ES,2014,23968.124,Spain,All energy sources
-TOTAL,EU27_2020,2014,246070.381,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2014,246070.381,EU27 (total of EU),All energy sources
 TOTAL,FI,2014,5854.989,Finland,All energy sources
 TOTAL,FR,2014,49267.461,France,All energy sources
 TOTAL,HR,2014,1165.335,Croatia,All energy sources
@@ -6377,7 +6377,7 @@ C0000X0350-0370,DK,2015,611.339,Denmark,Other / combined category
 C0000X0350-0370,EE,2015,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2015,1900.86,Greece,Other / combined category
 C0000X0350-0370,ES,2015,4416.681,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2015,60621.585,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2015,60621.585,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2015,440.327,Finland,Other / combined category
 C0000X0350-0370,FR,2015,1022.739,France,Other / combined category
 C0000X0350-0370,HR,2015,198.624,Croatia,Other / combined category
@@ -6434,7 +6434,7 @@ N900H,DK,2015,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2015,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2015,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2015,4917.971,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2015,67641.948,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2015,67641.948,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2015,1998.71,Finland,Heat pumps (renewable)
 N900H,FR,2015,37612.021,France,Heat pumps (renewable)
 N900H,HR,2015,0.0,Croatia,Heat pumps (renewable)
@@ -6463,7 +6463,7 @@ RA000,DK,2015,1628.293,Denmark,Renewables (total)
 RA000,EE,2015,134.101,Estonia,Renewables (total)
 RA000,EL,2015,1276.894,Greece,Renewables (total)
 RA000,ES,2015,8348.104,Spain,Renewables (total)
-RA000,EU27_2020,2015,73694.517,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2015,73694.517,EU27 (total of EU),Renewables (total)
 RA000,FI,2015,2624.826,Finland,Renewables (total)
 RA000,FR,2015,7934.047,France,Renewables (total)
 RA000,HR,2015,645.69,Croatia,Renewables (total)
@@ -6492,7 +6492,7 @@ RA100,DK,2015,1.55,Denmark,Hydropower
 RA100,EE,2015,2.287,Estonia,Hydropower
 RA100,EL,2015,524.35,Greece,Hydropower
 RA100,ES,2015,2419.604,Spain,Hydropower
-RA100,EU27_2020,2015,28889.783,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2015,28889.783,EU27 (total of EU),Hydropower
 RA100,FI,2015,1441.848,Finland,Hydropower
 RA100,FR,2015,4776.98,France,Hydropower
 RA100,HR,2015,549.496,Croatia,Hydropower
@@ -6521,7 +6521,7 @@ RA300,DK,2015,1215.227,Denmark,Wind power
 RA300,EE,2015,61.479,Estonia,Wind power
 RA300,EL,2015,397.336,Greece,Wind power
 RA300,ES,2015,4241.187,Spain,Wind power
-RA300,EU27_2020,2015,22678.45,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2015,22678.45,EU27 (total of EU),Wind power
 RA300,FI,2015,200.117,Finland,Wind power
 RA300,FR,2015,1879.429,France,Wind power
 RA300,HR,2015,68.469,Croatia,Wind power
@@ -6550,7 +6550,7 @@ RA410,DK,2015,0.0,Denmark,Solar photovoltaic
 RA410,EE,2015,0.0,Estonia,Solar photovoltaic
 RA410,EL,2015,0.0,Greece,Solar photovoltaic
 RA410,ES,2015,480.932,Spain,Solar photovoltaic
-RA410,EU27_2020,2015,480.932,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2015,480.932,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2015,0.0,Finland,Solar photovoltaic
 RA410,FR,2015,0.0,France,Solar photovoltaic
 RA410,HR,2015,0.0,Croatia,Solar photovoltaic
@@ -6579,7 +6579,7 @@ RA420,DK,2015,51.957,Denmark,Solar thermal
 RA420,EE,2015,0.0,Estonia,Solar thermal
 RA420,EL,2015,335.308,Greece,Solar thermal
 RA420,ES,2015,710.767,Spain,Solar thermal
-RA420,EU27_2020,2015,8191.059,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2015,8191.059,EU27 (total of EU),Solar thermal
 RA420,FI,2015,0.973,Finland,Solar thermal
 RA420,FR,2015,666.709,France,Solar thermal
 RA420,HR,2015,4.924,Croatia,Solar thermal
@@ -6608,7 +6608,7 @@ RA500,DK,2015,0.0,Denmark,Other renewables
 RA500,EE,2015,0.0,Estonia,Other renewables
 RA500,EL,2015,0.0,Greece,Other renewables
 RA500,ES,2015,0.0,Spain,Other renewables
-RA500,EU27_2020,2015,41.912,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2015,41.912,EU27 (total of EU),Other renewables
 RA500,FI,2015,0.0,Finland,Other renewables
 RA500,FR,2015,41.91,France,Other renewables
 RA500,HR,2015,0.0,Croatia,Other renewables
@@ -6637,7 +6637,7 @@ TOTAL,DK,2015,2488.446,Denmark,All energy sources
 TOTAL,EE,2015,872.608,Estonia,All energy sources
 TOTAL,EL,2015,4460.396,Greece,All energy sources
 TOTAL,ES,2015,24154.037,Spain,All energy sources
-TOTAL,EU27_2020,2015,249967.81,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2015,249967.81,EU27 (total of EU),All energy sources
 TOTAL,FI,2015,5898.374,Finland,All energy sources
 TOTAL,FR,2015,49863.528,France,All energy sources
 TOTAL,HR,2015,980.454,Croatia,All energy sources
@@ -6694,7 +6694,7 @@ C0000X0350-0370,DK,2016,762.273,Denmark,Other / combined category
 C0000X0350-0370,EE,2016,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2016,1623.646,Greece,Other / combined category
 C0000X0350-0370,ES,2016,3132.76,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2016,56676.671,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2016,56676.671,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2016,599.656,Finland,Other / combined category
 C0000X0350-0370,FR,2016,879.255,France,Other / combined category
 C0000X0350-0370,HR,2016,223.216,Croatia,Other / combined category
@@ -6751,7 +6751,7 @@ N900H,DK,2016,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2016,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2016,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2016,5041.531,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2016,66032.568,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2016,66032.568,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2016,1995.099,Finland,Heat pumps (renewable)
 N900H,FR,2016,34668.571,France,Heat pumps (renewable)
 N900H,HR,2016,0.0,Croatia,Heat pumps (renewable)
@@ -6780,7 +6780,7 @@ RA000,DK,2016,1581.258,Denmark,Renewables (total)
 RA000,EE,2016,136.516,Estonia,Renewables (total)
 RA000,EL,2016,1280.523,Greece,Renewables (total)
 RA000,ES,2016,8996.74,Spain,Renewables (total)
-RA000,EU27_2020,2016,75006.894,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2016,75006.894,EU27 (total of EU),Renewables (total)
 RA000,FI,2016,2614.958,Finland,Renewables (total)
 RA000,FR,2016,8550.04,France,Renewables (total)
 RA000,HR,2016,719.115,Croatia,Renewables (total)
@@ -6809,7 +6809,7 @@ RA100,DK,2016,1.657,Denmark,Hydropower
 RA100,EE,2016,3.009,Estonia,Hydropower
 RA100,EL,2016,476.581,Greece,Hydropower
 RA100,ES,2016,3129.437,Spain,Hydropower
-RA100,EU27_2020,2016,29715.546,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2016,29715.546,EU27 (total of EU),Hydropower
 RA100,FI,2016,1358.48,Finland,Hydropower
 RA100,FR,2016,5231.23,France,Hydropower
 RA100,HR,2016,589.174,Croatia,Hydropower
@@ -6838,7 +6838,7 @@ RA300,DK,2016,1099.031,Denmark,Wind power
 RA300,EE,2016,51.075,Estonia,Wind power
 RA300,EL,2016,442.467,Greece,Wind power
 RA300,ES,2016,4205.073,Spain,Wind power
-RA300,EU27_2020,2016,22988.174,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2016,22988.174,EU27 (total of EU),Wind power
 RA300,FI,2016,263.804,Finland,Wind power
 RA300,FR,2016,1875.953,France,Wind power
 RA300,HR,2016,87.21,Croatia,Wind power
@@ -6867,7 +6867,7 @@ RA410,DK,2016,0.0,Denmark,Solar photovoltaic
 RA410,EE,2016,0.0,Estonia,Solar photovoltaic
 RA410,EL,2016,0.0,Greece,Solar photovoltaic
 RA410,ES,2016,479.725,Spain,Solar photovoltaic
-RA410,EU27_2020,2016,479.725,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2016,479.725,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2016,0.0,Finland,Solar photovoltaic
 RA410,FR,2016,0.0,France,Solar photovoltaic
 RA410,HR,2016,0.0,Croatia,Solar photovoltaic
@@ -6896,7 +6896,7 @@ RA420,DK,2016,63.954,Denmark,Solar thermal
 RA420,EE,2016,0.832,Estonia,Solar thermal
 RA420,EL,2016,337.895,Greece,Solar thermal
 RA420,ES,2016,693.339,Spain,Solar thermal
-RA420,EU27_2020,2016,8207.747,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2016,8207.747,EU27 (total of EU),Solar thermal
 RA420,FI,2016,1.897,Finland,Solar thermal
 RA420,FR,2016,744.622,France,Solar thermal
 RA420,HR,2016,5.636,Croatia,Solar thermal
@@ -6925,7 +6925,7 @@ RA500,DK,2016,0.0,Denmark,Other renewables
 RA500,EE,2016,0.0,Estonia,Other renewables
 RA500,EL,2016,0.0,Greece,Other renewables
 RA500,ES,2016,0.0,Spain,Other renewables
-RA500,EU27_2020,2016,43.041,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2016,43.041,EU27 (total of EU),Other renewables
 RA500,FI,2016,0.0,Finland,Other renewables
 RA500,FR,2016,43.037,France,Other renewables
 RA500,HR,2016,0.0,Croatia,Other renewables
@@ -6954,7 +6954,7 @@ TOTAL,DK,2016,2625.83,Denmark,All energy sources
 TOTAL,EE,2016,1046.425,Estonia,All energy sources
 TOTAL,EL,2016,4680.82,Greece,All energy sources
 TOTAL,ES,2016,23626.119,Spain,All energy sources
-TOTAL,EU27_2020,2016,251822.803,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2016,251822.803,EU27 (total of EU),All energy sources
 TOTAL,FI,2016,5912.053,Finland,All energy sources
 TOTAL,FR,2016,48541.106,France,All energy sources
 TOTAL,HR,2016,1102.314,Croatia,All energy sources
@@ -7011,7 +7011,7 @@ C0000X0350-0370,DK,2017,533.591,Denmark,Other / combined category
 C0000X0350-0370,EE,2017,1.513,Estonia,Other / combined category
 C0000X0350-0370,EL,2017,1613.5,Greece,Other / combined category
 C0000X0350-0370,ES,2017,3880.224,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2017,54938.815,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2017,54938.815,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2017,503.611,Finland,Other / combined category
 C0000X0350-0370,FR,2017,1101.757,France,Other / combined category
 C0000X0350-0370,HR,2017,117.549,Croatia,Other / combined category
@@ -7068,7 +7068,7 @@ N900H,DK,2017,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2017,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2017,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2017,4990.456,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2017,65295.154,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2017,65295.154,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2017,1932.674,Finland,Heat pumps (renewable)
 N900H,FR,2017,34252.72,France,Heat pumps (renewable)
 N900H,HR,2017,0.0,Croatia,Heat pumps (renewable)
@@ -7097,7 +7097,7 @@ RA000,DK,2017,1874.283,Denmark,Renewables (total)
 RA000,EE,2017,159.804,Estonia,Renewables (total)
 RA000,EL,2017,1186.676,Greece,Renewables (total)
 RA000,ES,2017,7560.103,Spain,Renewables (total)
-RA000,EU27_2020,2017,75268.479,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2017,75268.479,EU27 (total of EU),Renewables (total)
 RA000,FI,2017,2706.51,Finland,Renewables (total)
 RA000,FR,2017,7946.233,France,Renewables (total)
 RA000,HR,2017,611.84,Croatia,Renewables (total)
@@ -7126,7 +7126,7 @@ RA100,DK,2017,1.537,Denmark,Hydropower
 RA100,EE,2017,2.236,Estonia,Hydropower
 RA100,EL,2017,340.718,Greece,Hydropower
 RA100,ES,2017,1575.408,Spain,Hydropower
-RA100,EU27_2020,2017,25309.198,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2017,25309.198,EU27 (total of EU),Hydropower
 RA100,FI,2017,1270.118,Finland,Hydropower
 RA100,FR,2017,4299.334,France,Hydropower
 RA100,HR,2017,456.354,Croatia,Hydropower
@@ -7155,7 +7155,7 @@ RA300,DK,2017,1270.851,Denmark,Wind power
 RA300,EE,2017,62.167,Estonia,Wind power
 RA300,EL,2017,476.095,Greece,Wind power
 RA300,ES,2017,4224.162,Spain,Wind power
-RA300,EU27_2020,2017,26907.85,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2017,26907.85,EU27 (total of EU),Wind power
 RA300,FI,2017,412.312,Finland,Wind power
 RA300,FR,2017,2159.215,France,Wind power
 RA300,HR,2017,103.525,Croatia,Wind power
@@ -7184,7 +7184,7 @@ RA410,DK,2017,0.0,Denmark,Solar photovoltaic
 RA410,EE,2017,0.0,Estonia,Solar photovoltaic
 RA410,EL,2017,0.0,Greece,Solar photovoltaic
 RA410,ES,2017,505.847,Spain,Solar photovoltaic
-RA410,EU27_2020,2017,505.847,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2017,505.847,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2017,0.0,Finland,Solar photovoltaic
 RA410,FR,2017,0.0,France,Solar photovoltaic
 RA410,HR,2017,0.0,Croatia,Solar photovoltaic
@@ -7213,7 +7213,7 @@ RA420,DK,2017,64.616,Denmark,Solar thermal
 RA420,EE,2017,1.246,Estonia,Solar thermal
 RA420,EL,2017,343.205,Greece,Solar thermal
 RA420,ES,2017,732.072,Spain,Solar thermal
-RA420,EU27_2020,2017,8712.75,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2017,8712.75,EU27 (total of EU),Solar thermal
 RA420,FI,2017,4.171,Finland,Solar thermal
 RA420,FR,2017,762.311,France,Solar thermal
 RA420,HR,2017,6.767,Croatia,Solar thermal
@@ -7242,7 +7242,7 @@ RA500,DK,2017,0.0,Denmark,Other renewables
 RA500,EE,2017,0.0,Estonia,Other renewables
 RA500,EL,2017,0.0,Greece,Other renewables
 RA500,ES,2017,0.0,Spain,Other renewables
-RA500,EU27_2020,2017,44.86,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2017,44.86,EU27 (total of EU),Other renewables
 RA500,FI,2017,0.0,Finland,Other renewables
 RA500,FR,2017,44.859,France,Other renewables
 RA500,HR,2017,0.0,Croatia,Other renewables
@@ -7271,7 +7271,7 @@ TOTAL,DK,2017,2667.46,Denmark,All energy sources
 TOTAL,EE,2017,1131.596,Estonia,All energy sources
 TOTAL,EL,2017,4752.028,Greece,All energy sources
 TOTAL,ES,2017,23708.169,Spain,All energy sources
-TOTAL,EU27_2020,2017,254584.366,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2017,254584.366,EU27 (total of EU),All energy sources
 TOTAL,FI,2017,5806.076,Finland,All energy sources
 TOTAL,FR,2017,48303.572,France,All energy sources
 TOTAL,HR,2017,1030.396,Croatia,All energy sources
@@ -7328,7 +7328,7 @@ C0000X0350-0370,DK,2018,564.954,Denmark,Other / combined category
 C0000X0350-0370,EE,2018,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2018,1477.657,Greece,Other / combined category
 C0000X0350-0370,ES,2018,3210.748,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2018,51213.671,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2018,51213.671,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2018,497.936,Finland,Other / combined category
 C0000X0350-0370,FR,2018,714.488,France,Other / combined category
 C0000X0350-0370,HR,2018,124.901,Croatia,Other / combined category
@@ -7385,7 +7385,7 @@ N900H,DK,2018,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2018,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2018,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2018,4795.013,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2018,65515.309,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2018,65515.309,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2018,1959.845,Finland,Heat pumps (renewable)
 N900H,FR,2018,35506.605,France,Heat pumps (renewable)
 N900H,HR,2018,0.0,Croatia,Heat pumps (renewable)
@@ -7414,7 +7414,7 @@ RA000,DK,2018,1785.028,Denmark,Renewables (total)
 RA000,EE,2018,171.006,Estonia,Renewables (total)
 RA000,EL,2018,1388.515,Greece,Renewables (total)
 RA000,ES,2018,8932.502,Spain,Renewables (total)
-RA000,EU27_2020,2018,80922.19,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2018,80922.19,EU27 (total of EU),Renewables (total)
 RA000,FI,2018,2763.562,Finland,Renewables (total)
 RA000,FR,2018,9838.759,France,Renewables (total)
 RA000,HR,2018,841.04,Croatia,Renewables (total)
@@ -7443,7 +7443,7 @@ RA100,DK,2018,1.278,Denmark,Hydropower
 RA100,EE,2018,1.29,Estonia,Hydropower
 RA100,EL,2018,493.848,Greece,Hydropower
 RA100,ES,2018,2952.193,Spain,Hydropower
-RA100,EU27_2020,2018,29568.48,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2018,29568.48,EU27 (total of EU),Hydropower
 RA100,FI,2018,1143.689,Finland,Hydropower
 RA100,FR,2018,5598.575,France,Hydropower
 RA100,HR,2018,662.158,Croatia,Hydropower
@@ -7472,7 +7472,7 @@ RA300,DK,2018,1195.353,Denmark,Wind power
 RA300,EE,2018,54.686,Estonia,Wind power
 RA300,EL,2018,541.725,Greece,Wind power
 RA300,ES,2018,4376.268,Spain,Wind power
-RA300,EU27_2020,2018,27630.465,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2018,27630.465,EU27 (total of EU),Wind power
 RA300,FI,2018,502.035,Finland,Wind power
 RA300,FR,2018,2509.221,France,Wind power
 RA300,HR,2018,114.824,Croatia,Wind power
@@ -7501,7 +7501,7 @@ RA410,DK,2018,0.0,Denmark,Solar photovoltaic
 RA410,EE,2018,0.0,Estonia,Solar photovoltaic
 RA410,EL,2018,0.0,Greece,Solar photovoltaic
 RA410,ES,2018,418.487,Spain,Solar photovoltaic
-RA410,EU27_2020,2018,418.487,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2018,418.487,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2018,0.0,Finland,Solar photovoltaic
 RA410,FR,2018,0.0,France,Solar photovoltaic
 RA410,HR,2018,0.0,Croatia,Solar photovoltaic
@@ -7530,7 +7530,7 @@ RA420,DK,2018,81.941,Denmark,Solar thermal
 RA420,EE,2018,2.648,Estonia,Solar thermal
 RA420,EL,2018,325.937,Greece,Solar thermal
 RA420,ES,2018,677.3,Spain,Solar thermal
-RA420,EU27_2020,2018,9322.185,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2018,9322.185,EU27 (total of EU),Solar thermal
 RA420,FI,2018,7.758,Finland,Solar thermal
 RA420,FR,2018,958.385,France,Solar thermal
 RA420,HR,2018,6.44,Croatia,Solar thermal
@@ -7559,7 +7559,7 @@ RA500,DK,2018,0.0,Denmark,Other renewables
 RA500,EE,2018,0.0,Estonia,Other renewables
 RA500,EL,2018,0.0,Greece,Other renewables
 RA500,ES,2018,0.0,Spain,Other renewables
-RA500,EU27_2020,2018,41.267,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2018,41.267,EU27 (total of EU),Other renewables
 RA500,FI,2018,0.0,Finland,Other renewables
 RA500,FR,2018,41.267,France,Other renewables
 RA500,HR,2018,0.0,Croatia,Other renewables
@@ -7588,7 +7588,7 @@ TOTAL,DK,2018,2611.365,Denmark,All energy sources
 TOTAL,EE,2018,1063.127,Estonia,All energy sources
 TOTAL,EL,2018,4579.775,Greece,All energy sources
 TOTAL,ES,2018,23598.624,Spain,All energy sources
-TOTAL,EU27_2020,2018,253143.944,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2018,253143.944,EU27 (total of EU),All energy sources
 TOTAL,FI,2018,6041.542,Finland,All energy sources
 TOTAL,FR,2018,50092.594,France,All energy sources
 TOTAL,HR,2018,1172.115,Croatia,All energy sources
@@ -7645,7 +7645,7 @@ C0000X0350-0370,DK,2019,284.695,Denmark,Other / combined category
 C0000X0350-0370,EE,2019,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2019,1042.438,Greece,Other / combined category
 C0000X0350-0370,ES,2019,1105.675,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2019,38771.435,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2019,38771.435,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2019,374.807,Finland,Other / combined category
 C0000X0350-0370,FR,2019,312.752,France,Other / combined category
 C0000X0350-0370,HR,2019,140.963,Croatia,Other / combined category
@@ -7702,7 +7702,7 @@ N900H,DK,2019,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2019,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2019,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2019,5017.111,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2019,65807.211,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2019,65807.211,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2019,2052.451,Finland,Heat pumps (renewable)
 N900H,FR,2019,34308.821,France,Heat pumps (renewable)
 N900H,HR,2019,0.0,Croatia,Heat pumps (renewable)
@@ -7731,7 +7731,7 @@ RA000,DK,2019,1983.938,Denmark,Renewables (total)
 RA000,EE,2019,184.196,Estonia,Renewables (total)
 RA000,EL,2019,1384.048,Greece,Renewables (total)
 RA000,ES,2019,8683.405,Spain,Renewables (total)
-RA000,EU27_2020,2019,84157.402,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2019,84157.402,EU27 (total of EU),Renewables (total)
 RA000,FI,2019,2741.57,Finland,Renewables (total)
 RA000,FR,2019,9772.013,France,Renewables (total)
 RA000,HR,2019,717.696,Croatia,Renewables (total)
@@ -7760,7 +7760,7 @@ RA100,DK,2019,1.458,Denmark,Hydropower
 RA100,EE,2019,1.634,Estonia,Hydropower
 RA100,EL,2019,343.904,Greece,Hydropower
 RA100,ES,2019,2119.175,Spain,Hydropower
-RA100,EU27_2020,2019,27537.276,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2019,27537.276,EU27 (total of EU),Hydropower
 RA100,FI,2019,1067.969,Finland,Hydropower
 RA100,FR,2019,4893.684,France,Hydropower
 RA100,HR,2019,500.954,Croatia,Hydropower
@@ -7789,7 +7789,7 @@ RA300,DK,2019,1388.636,Denmark,Wind power
 RA300,EE,2019,59.071,Estonia,Wind power
 RA300,EL,2019,624.793,Greece,Wind power
 RA300,ES,2019,4784.781,Spain,Wind power
-RA300,EU27_2020,2019,31644.033,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2019,31644.033,EU27 (total of EU),Wind power
 RA300,FI,2019,518.035,Finland,Wind power
 RA300,FR,2019,3048.882,France,Wind power
 RA300,HR,2019,126.165,Croatia,Wind power
@@ -7818,7 +7818,7 @@ RA410,DK,2019,0.0,Denmark,Solar photovoltaic
 RA410,EE,2019,0.0,Estonia,Solar photovoltaic
 RA410,EL,2019,0.0,Greece,Solar photovoltaic
 RA410,ES,2019,488.65,Spain,Solar photovoltaic
-RA410,EU27_2020,2019,488.65,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2019,488.65,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2019,0.0,Finland,Solar photovoltaic
 RA410,FR,2019,0.0,France,Solar photovoltaic
 RA410,HR,2019,0.0,Croatia,Solar photovoltaic
@@ -7847,7 +7847,7 @@ RA420,DK,2019,82.826,Denmark,Solar thermal
 RA420,EE,2019,6.32,Estonia,Solar thermal
 RA420,EL,2019,380.783,Greece,Solar thermal
 RA420,ES,2019,809.974,Spain,Solar thermal
-RA420,EU27_2020,2019,10135.028,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2019,10135.028,EU27 (total of EU),Solar thermal
 RA420,FI,2019,12.655,Finland,Solar thermal
 RA420,FR,2019,1033.958,France,Solar thermal
 RA420,HR,2019,7.145,Croatia,Solar thermal
@@ -7876,7 +7876,7 @@ RA500,DK,2019,0.0,Denmark,Other renewables
 RA500,EE,2019,0.0,Estonia,Other renewables
 RA500,EL,2019,0.0,Greece,Other renewables
 RA500,ES,2019,1.72,Spain,Other renewables
-RA500,EU27_2020,2019,42.903,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2019,42.903,EU27 (total of EU),Other renewables
 RA500,FI,2019,0.0,Finland,Other renewables
 RA500,FR,2019,41.183,France,Other renewables
 RA500,HR,2019,0.0,Croatia,Other renewables
@@ -7905,7 +7905,7 @@ TOTAL,DK,2019,2538.001,Denmark,All energy sources
 TOTAL,EE,2019,654.795,Estonia,All energy sources
 TOTAL,EL,2019,4181.083,Greece,All energy sources
 TOTAL,ES,2019,23495.873,Spain,All energy sources
-TOTAL,EU27_2020,2019,250024.194,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2019,250024.194,EU27 (total of EU),All energy sources
 TOTAL,FI,2019,5902.911,Finland,All energy sources
 TOTAL,FR,2019,49124.362,France,All energy sources
 TOTAL,HR,2019,1097.188,Croatia,All energy sources
@@ -7962,7 +7962,7 @@ C0000X0350-0370,DK,2020,263.259,Denmark,Other / combined category
 C0000X0350-0370,EE,2020,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2020,567.928,Greece,Other / combined category
 C0000X0350-0370,ES,2020,474.807,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2020,30302.406,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2020,30302.406,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2020,210.06,Finland,Other / combined category
 C0000X0350-0370,FR,2020,265.379,France,Other / combined category
 C0000X0350-0370,HR,2020,104.506,Croatia,Other / combined category
@@ -8019,7 +8019,7 @@ N900H,DK,2020,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2020,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2020,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2020,5012.812,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2020,58771.467,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2020,58771.467,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2020,2002.666,Finland,Heat pumps (renewable)
 N900H,FR,2020,30424.15,France,Heat pumps (renewable)
 N900H,HR,2020,0.0,Croatia,Heat pumps (renewable)
@@ -8048,7 +8048,7 @@ RA000,DK,2020,2016.068,Denmark,Renewables (total)
 RA000,EE,2020,255.433,Estonia,Renewables (total)
 RA000,EL,2020,1509.389,Greece,Renewables (total)
 RA000,ES,2020,9783.577,Spain,Renewables (total)
-RA000,EU27_2020,2020,91186.286,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2020,91186.286,EU27 (total of EU),Renewables (total)
 RA000,FI,2020,3089.195,Finland,Renewables (total)
 RA000,FR,2020,10808.245,France,Renewables (total)
 RA000,HR,2020,735.219,Croatia,Renewables (total)
@@ -8077,7 +8077,7 @@ RA100,DK,2020,1.467,Denmark,Hydropower
 RA100,EE,2020,2.58,Estonia,Hydropower
 RA100,EL,2020,287.505,Greece,Hydropower
 RA100,ES,2020,2623.13,Spain,Hydropower
-RA100,EU27_2020,2020,29846.016,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2020,29846.016,EU27 (total of EU),Hydropower
 RA100,FI,2020,1365.721,Finland,Hydropower
 RA100,FR,2020,5376.054,France,Hydropower
 RA100,HR,2020,486.879,Croatia,Hydropower
@@ -8106,7 +8106,7 @@ RA300,DK,2020,1404.146,Denmark,Wind power
 RA300,EE,2020,72.571,Estonia,Wind power
 RA300,EL,2020,800.525,Greece,Wind power
 RA300,ES,2020,4853.31,Spain,Wind power
-RA300,EU27_2020,2020,34293.699,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2020,34293.699,EU27 (total of EU),Wind power
 RA300,FI,2020,709.86,Finland,Wind power
 RA300,FR,2020,3500.223,France,Wind power
 RA300,HR,2020,147.954,Croatia,Wind power
@@ -8135,7 +8135,7 @@ RA410,DK,2020,0.0,Denmark,Solar photovoltaic
 RA410,EE,2020,0.0,Estonia,Solar photovoltaic
 RA410,EL,2020,0.0,Greece,Solar photovoltaic
 RA410,ES,2020,429.235,Spain,Solar photovoltaic
-RA410,EU27_2020,2020,429.235,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2020,429.235,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2020,0.0,Finland,Solar photovoltaic
 RA410,FR,2020,0.0,France,Solar photovoltaic
 RA410,HR,2020,0.0,Croatia,Solar photovoltaic
@@ -8164,7 +8164,7 @@ RA420,DK,2020,101.507,Denmark,Solar thermal
 RA420,EE,2020,21.078,Estonia,Solar thermal
 RA420,EL,2020,382.361,Greece,Solar thermal
 RA420,ES,2020,1347.807,Spain,Solar thermal
-RA420,EU27_2020,2020,12012.5,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2020,12012.5,EU27 (total of EU),Solar thermal
 RA420,FI,2020,18.785,Finland,Solar thermal
 RA420,FR,2020,1125.544,France,Solar thermal
 RA420,HR,2020,8.212,Croatia,Solar thermal
@@ -8193,7 +8193,7 @@ RA500,DK,2020,0.0,Denmark,Other renewables
 RA500,EE,2020,0.0,Estonia,Other renewables
 RA500,EL,2020,0.0,Greece,Other renewables
 RA500,ES,2020,2.322,Spain,Other renewables
-RA500,EU27_2020,2020,43.746,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2020,43.746,EU27 (total of EU),Other renewables
 RA500,FI,2020,0.0,Finland,Other renewables
 RA500,FR,2020,41.424,France,Other renewables
 RA500,HR,2020,0.0,Croatia,Other renewables
@@ -8222,7 +8222,7 @@ TOTAL,DK,2020,2470.22,Denmark,All energy sources
 TOTAL,EE,2020,522.653,Estonia,All energy sources
 TOTAL,EL,2020,4148.915,Greece,All energy sources
 TOTAL,ES,2020,22646.002,Spain,All energy sources
-TOTAL,EU27_2020,2020,239913.607,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2020,239913.607,EU27 (total of EU),All energy sources
 TOTAL,FI,2020,5955.896,Finland,All energy sources
 TOTAL,FR,2020,45810.198,France,All energy sources
 TOTAL,HR,2020,1150.929,Croatia,All energy sources
@@ -8279,7 +8279,7 @@ C0000X0350-0370,DK,2021,375.363,Denmark,Other / combined category
 C0000X0350-0370,EE,2021,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2021,457.249,Greece,Other / combined category
 C0000X0350-0370,ES,2021,417.713,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2021,36043.241,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2021,36043.241,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2021,229.837,Finland,Other / combined category
 C0000X0350-0370,FR,2021,467.998,France,Other / combined category
 C0000X0350-0370,HR,2021,125.271,Croatia,Other / combined category
@@ -8336,7 +8336,7 @@ N900H,DK,2021,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2021,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2021,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2021,4863.629,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2021,62914.945,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2021,62914.945,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2021,2029.063,Finland,Heat pumps (renewable)
 N900H,FR,2021,32619.2,France,Heat pumps (renewable)
 N900H,HR,2021,0.0,Croatia,Heat pumps (renewable)
@@ -8365,7 +8365,7 @@ RA000,DK,2021,2244.022,Denmark,Renewables (total)
 RA000,EE,2021,247.509,Estonia,Renewables (total)
 RA000,EL,2021,1903.405,Greece,Renewables (total)
 RA000,ES,2021,10812.257,Spain,Renewables (total)
-RA000,EU27_2020,2021,92740.241,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2021,92740.241,EU27 (total of EU),Renewables (total)
 RA000,FI,2021,3282.417,Finland,Renewables (total)
 RA000,FR,2021,10547.911,France,Renewables (total)
 RA000,HR,2021,905.236,Croatia,Renewables (total)
@@ -8394,7 +8394,7 @@ RA100,DK,2021,1.401,Denmark,Hydropower
 RA100,EE,2021,1.978,Estonia,Hydropower
 RA100,EL,2021,507.604,Greece,Hydropower
 RA100,ES,2021,2547.377,Spain,Hydropower
-RA100,EU27_2020,2021,29942.327,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2021,29942.327,EU27 (total of EU),Hydropower
 RA100,FI,2021,1357.793,Finland,Hydropower
 RA100,FR,2021,5119.282,France,Hydropower
 RA100,HR,2021,612.872,Croatia,Hydropower
@@ -8423,7 +8423,7 @@ RA300,DK,2021,1380.436,Denmark,Wind power
 RA300,EE,2021,63.027,Estonia,Wind power
 RA300,EL,2021,901.374,Greece,Wind power
 RA300,ES,2021,5336.285,Spain,Wind power
-RA300,EU27_2020,2021,33321.821,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2021,33321.821,EU27 (total of EU),Wind power
 RA300,FI,2021,731.447,Finland,Wind power
 RA300,FR,2021,3241.05,France,Wind power
 RA300,HR,2021,177.283,Croatia,Wind power
@@ -8452,7 +8452,7 @@ RA410,DK,2021,0.0,Denmark,Solar photovoltaic
 RA410,EE,2021,0.0,Estonia,Solar photovoltaic
 RA410,EL,2021,0.0,Greece,Solar photovoltaic
 RA410,ES,2021,445.056,Spain,Solar photovoltaic
-RA410,EU27_2020,2021,445.056,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2021,445.056,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2021,0.0,Finland,Solar photovoltaic
 RA410,FR,2021,0.0,France,Solar photovoltaic
 RA410,HR,2021,0.0,Croatia,Solar photovoltaic
@@ -8481,7 +8481,7 @@ RA420,DK,2021,112.548,Denmark,Solar thermal
 RA420,EE,2021,30.41,Estonia,Solar thermal
 RA420,EL,2021,451.503,Greece,Solar thermal
 RA420,ES,2021,1884.953,Spain,Solar thermal
-RA420,EU27_2020,2021,13672.279,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2021,13672.279,EU27 (total of EU),Solar thermal
 RA420,FI,2021,25.582,Finland,Solar thermal
 RA420,FR,2021,1314.022,France,Solar thermal
 RA420,HR,2021,12.803,Croatia,Solar thermal
@@ -8510,7 +8510,7 @@ RA500,DK,2021,0.0,Denmark,Other renewables
 RA500,EE,2021,0.0,Estonia,Other renewables
 RA500,EL,2021,0.0,Greece,Other renewables
 RA500,ES,2021,1.634,Spain,Other renewables
-RA500,EU27_2020,2021,43.233,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2021,43.233,EU27 (total of EU),Other renewables
 RA500,FI,2021,0.0,Finland,Other renewables
 RA500,FR,2021,41.599,France,Other renewables
 RA500,HR,2021,0.0,Croatia,Other renewables
@@ -8539,7 +8539,7 @@ TOTAL,DK,2021,2841.841,Denmark,All energy sources
 TOTAL,EE,2021,619.472,Estonia,All energy sources
 TOTAL,EL,2021,4704.654,Greece,All energy sources
 TOTAL,ES,2021,23586.586,Spain,All energy sources
-TOTAL,EU27_2020,2021,250767.032,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2021,250767.032,EU27 (total of EU),All energy sources
 TOTAL,FI,2021,6201.224,Finland,All energy sources
 TOTAL,FR,2021,47769.161,France,All energy sources
 TOTAL,HR,2021,1307.859,Croatia,All energy sources
@@ -8596,7 +8596,7 @@ C0000X0350-0370,DK,2022,380.851,Denmark,Other / combined category
 C0000X0350-0370,EE,2022,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2022,494.996,Greece,Other / combined category
 C0000X0350-0370,ES,2022,675.838,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2022,38568.84,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2022,38568.84,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2022,295.959,Finland,Other / combined category
 C0000X0350-0370,FR,2022,357.984,France,Other / combined category
 C0000X0350-0370,HR,2022,134.041,Croatia,Other / combined category
@@ -8653,7 +8653,7 @@ N900H,DK,2022,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2022,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2022,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2022,5037.833,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2022,52386.544,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2022,52386.544,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2022,2178.504,Finland,Heat pumps (renewable)
 N900H,FR,2022,25342.308,France,Heat pumps (renewable)
 N900H,HR,2022,0.0,Croatia,Heat pumps (renewable)
@@ -8682,7 +8682,7 @@ RA000,DK,2022,2447.959,Denmark,Renewables (total)
 RA000,EE,2022,245.585,Estonia,Renewables (total)
 RA000,EL,2022,1930.074,Greece,Renewables (total)
 RA000,ES,2022,10569.089,Spain,Renewables (total)
-RA000,EU27_2020,2022,92996.167,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2022,92996.167,EU27 (total of EU),Renewables (total)
 RA000,FI,2022,3324.732,Finland,Renewables (total)
 RA000,FR,2022,9815.075,France,Renewables (total)
 RA000,HR,2022,769.639,Croatia,Renewables (total)
@@ -8711,7 +8711,7 @@ RA100,DK,2022,1.285,Denmark,Hydropower
 RA100,EE,2022,1.978,Estonia,Hydropower
 RA100,EL,2022,331.487,Greece,Hydropower
 RA100,ES,2022,1512.468,Spain,Hydropower
-RA100,EU27_2020,2022,23748.092,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2022,23748.092,EU27 (total of EU),Hydropower
 RA100,FI,2022,1160.083,Finland,Hydropower
 RA100,FR,2022,3917.046,France,Hydropower
 RA100,HR,2022,469.45,Croatia,Hydropower
@@ -8740,7 +8740,7 @@ RA300,DK,2022,1637.847,Denmark,Wind power
 RA300,EE,2022,57.438,Estonia,Wind power
 RA300,EL,2022,935.791,Greece,Wind power
 RA300,ES,2022,5398.452,Spain,Wind power
-RA300,EU27_2020,2022,36341.849,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2022,36341.849,EU27 (total of EU),Wind power
 RA300,FI,2022,1033.706,Finland,Wind power
 RA300,FR,2022,3351.32,France,Wind power
 RA300,HR,2022,183.818,Croatia,Wind power
@@ -8769,7 +8769,7 @@ RA410,DK,2022,0.0,Denmark,Solar photovoltaic
 RA410,EE,2022,0.0,Estonia,Solar photovoltaic
 RA410,EL,2022,0.0,Greece,Solar photovoltaic
 RA410,ES,2022,390.026,Spain,Solar photovoltaic
-RA410,EU27_2020,2022,390.026,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2022,390.026,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2022,0.0,Finland,Solar photovoltaic
 RA410,FR,2022,0.0,France,Solar photovoltaic
 RA410,HR,2022,0.0,Croatia,Solar photovoltaic
@@ -8798,7 +8798,7 @@ RA420,DK,2022,205.067,Denmark,Solar thermal
 RA420,EE,2022,51.247,Estonia,Solar thermal
 RA420,EL,2022,613.905,Greece,Solar thermal
 RA420,ES,2022,2681.599,Spain,Solar thermal
-RA420,EU27_2020,2022,17707.929,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2022,17707.929,EU27 (total of EU),Solar thermal
 RA420,FI,2022,33.735,Finland,Solar thermal
 RA420,FR,2022,1663.028,France,Solar thermal
 RA420,HR,2022,13.061,Croatia,Solar thermal
@@ -8827,7 +8827,7 @@ RA500,DK,2022,0.0,Denmark,Other renewables
 RA500,EE,2022,0.0,Estonia,Other renewables
 RA500,EL,2022,0.0,Greece,Other renewables
 RA500,ES,2022,1.978,Spain,Other renewables
-RA500,EU27_2020,2022,44.152,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2022,44.152,EU27 (total of EU),Other renewables
 RA500,FI,2022,0.0,Finland,Other renewables
 RA500,FR,2022,42.174,France,Other renewables
 RA500,HR,2022,0.0,Croatia,Other renewables
@@ -8856,7 +8856,7 @@ TOTAL,DK,2022,3038.03,Denmark,All energy sources
 TOTAL,EE,2022,768.431,Estonia,All energy sources
 TOTAL,EL,2022,4528.81,Greece,All energy sources
 TOTAL,ES,2022,25146.518,Spain,All energy sources
-TOTAL,EU27_2020,2022,242786.623,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2022,242786.623,EU27 (total of EU),All energy sources
 TOTAL,FI,2022,6206.95,Finland,All energy sources
 TOTAL,FR,2022,40858.89,France,All energy sources
 TOTAL,HR,2022,1222.743,Croatia,All energy sources
@@ -8913,7 +8913,7 @@ C0000X0350-0370,DK,2023,217.118,Denmark,Other / combined category
 C0000X0350-0370,EE,2023,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2023,394.722,Greece,Other / combined category
 C0000X0350-0370,ES,2023,311.522,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2023,27402.528,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2023,27402.528,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2023,134.308,Finland,Other / combined category
 C0000X0350-0370,FR,2023,138.474,France,Other / combined category
 C0000X0350-0370,HR,2023,113.947,Croatia,Other / combined category
@@ -8970,7 +8970,7 @@ N900H,DK,2023,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2023,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2023,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2023,4890.198,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2023,53276.124,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2023,53276.124,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2023,2949.957,Finland,Heat pumps (renewable)
 N900H,FR,2023,29080.162,France,Heat pumps (renewable)
 N900H,HR,2023,0.0,Croatia,Heat pumps (renewable)
@@ -8999,7 +8999,7 @@ RA000,DK,2023,2521.262,Denmark,Renewables (total)
 RA000,EE,2023,241.196,Estonia,Renewables (total)
 RA000,EL,2023,2096.777,Greece,Renewables (total)
 RA000,ES,2023,12362.167,Spain,Renewables (total)
-RA000,EU27_2020,2023,105717.175,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2023,105717.175,EU27 (total of EU),Renewables (total)
 RA000,FI,2023,3637.353,Finland,Renewables (total)
 RA000,FR,2023,12123.562,France,Renewables (total)
 RA000,HR,2023,1051.35,Croatia,Renewables (total)
@@ -9028,7 +9028,7 @@ RA100,DK,2023,1.688,Denmark,Hydropower
 RA100,EE,2023,2.064,Estonia,Hydropower
 RA100,EL,2023,328.059,Greece,Hydropower
 RA100,ES,2023,2149.269,Spain,Hydropower
-RA100,EU27_2020,2023,28412.583,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2023,28412.583,EU27 (total of EU),Hydropower
 RA100,FI,2023,1306.998,Finland,Hydropower
 RA100,FR,2023,4806.12,France,Hydropower
 RA100,HR,2023,701.677,Croatia,Hydropower
@@ -9057,7 +9057,7 @@ RA300,DK,2023,1671.049,Denmark,Wind power
 RA300,EE,2023,58.727,Estonia,Wind power
 RA300,EL,2023,947.701,Greece,Wind power
 RA300,ES,2023,5526.655,Spain,Wind power
-RA300,EU27_2020,2023,41311.33,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2023,41311.33,EU27 (total of EU),Wind power
 RA300,FI,2023,1293.48,Finland,Wind power
 RA300,FR,2023,4424.523,France,Wind power
 RA300,HR,2023,222.399,Croatia,Wind power
@@ -9086,7 +9086,7 @@ RA410,DK,2023,0.0,Denmark,Solar photovoltaic
 RA410,EE,2023,0.0,Estonia,Solar photovoltaic
 RA410,EL,2023,0.0,Greece,Solar photovoltaic
 RA410,ES,2023,444.11,Spain,Solar photovoltaic
-RA410,EU27_2020,2023,444.11,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2023,444.11,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2023,0.0,Finland,Solar photovoltaic
 RA410,FR,2023,0.0,France,Solar photovoltaic
 RA410,HR,2023,0.0,Croatia,Solar photovoltaic
@@ -9115,7 +9115,7 @@ RA420,DK,2023,314.543,Denmark,Solar thermal
 RA420,EE,2023,61.995,Estonia,Solar thermal
 RA420,EL,2023,764.71,Greece,Solar thermal
 RA420,ES,2023,3733.534,Spain,Solar thermal
-RA420,EU27_2020,2023,21435.456,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2023,21435.456,EU27 (total of EU),Solar thermal
 RA420,FI,2023,61.603,Finland,Solar thermal
 RA420,FR,2023,1942.246,France,Solar thermal
 RA420,HR,2023,35.52,Croatia,Solar thermal
@@ -9144,7 +9144,7 @@ RA500,DK,2023,0.0,Denmark,Other renewables
 RA500,EE,2023,0.0,Estonia,Other renewables
 RA500,EL,2023,0.0,Greece,Other renewables
 RA500,ES,2023,1.032,Spain,Other renewables
-RA500,EU27_2020,2023,39.663,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2023,39.663,EU27 (total of EU),Other renewables
 RA500,FI,2023,0.0,Finland,Other renewables
 RA500,FR,2023,38.631,France,Other renewables
 RA500,HR,2023,0.0,Croatia,Other renewables
@@ -9173,7 +9173,7 @@ TOTAL,DK,2023,2929.406,Denmark,All energy sources
 TOTAL,EE,2023,493.985,Estonia,All energy sources
 TOTAL,EL,2023,4292.058,Greece,All energy sources
 TOTAL,ES,2023,24581.32,Spain,All energy sources
-TOTAL,EU27_2020,2023,237398.524,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2023,237398.524,EU27 (total of EU),All energy sources
 TOTAL,FI,2023,7011.245,Finland,All energy sources
 TOTAL,FR,2023,45133.356,France,All energy sources
 TOTAL,HR,2023,1508.28,Croatia,All energy sources
@@ -9229,7 +9229,7 @@ C0000X0350-0370,DK,2024,150.53,Denmark,Other / combined category
 C0000X0350-0370,EE,2024,0.0,Estonia,Other / combined category
 C0000X0350-0370,EL,2024,281.128,Greece,Other / combined category
 C0000X0350-0370,ES,2024,221.971,Spain,Other / combined category
-C0000X0350-0370,EU27_2020,2024,23302.893,EU27 (Eurostat aggregate),Other / combined category
+C0000X0350-0370,EU27_2020,2024,23302.893,EU27 (total of EU),Other / combined category
 C0000X0350-0370,FI,2024,71.367,Finland,Other / combined category
 C0000X0350-0370,FR,2024,87.753,France,Other / combined category
 C0000X0350-0370,HR,2024,68.899,Croatia,Other / combined category
@@ -9284,7 +9284,7 @@ N900H,DK,2024,0.0,Denmark,Heat pumps (renewable)
 N900H,EE,2024,0.0,Estonia,Heat pumps (renewable)
 N900H,EL,2024,0.0,Greece,Heat pumps (renewable)
 N900H,ES,2024,4687.028,Spain,Heat pumps (renewable)
-N900H,EU27_2020,2024,55848.977,EU27 (Eurostat aggregate),Heat pumps (renewable)
+N900H,EU27_2020,2024,55848.977,EU27 (total of EU),Heat pumps (renewable)
 N900H,FI,2024,2803.009,Finland,Heat pumps (renewable)
 N900H,FR,2024,32712.906,France,Heat pumps (renewable)
 N900H,HR,2024,0.0,Croatia,Heat pumps (renewable)
@@ -9312,7 +9312,7 @@ RA000,DK,2024,2700.685,Denmark,Renewables (total)
 RA000,EE,2024,296.499,Estonia,Renewables (total)
 RA000,EL,2024,2381.003,Greece,Renewables (total)
 RA000,ES,2024,13841.012,Spain,Renewables (total)
-RA000,EU27_2020,2024,114431.395,EU27 (Eurostat aggregate),Renewables (total)
+RA000,EU27_2020,2024,114431.395,EU27 (total of EU),Renewables (total)
 RA000,FI,2024,4013.178,Finland,Renewables (total)
 RA000,FR,2024,13369.817,France,Renewables (total)
 RA000,HR,2024,959.579,Croatia,Renewables (total)
@@ -9340,7 +9340,7 @@ RA100,DK,2024,1.94,Denmark,Hydropower
 RA100,EE,2024,2.6,Estonia,Hydropower
 RA100,EL,2024,307.969,Greece,Hydropower
 RA100,ES,2024,2959.134,Spain,Hydropower
-RA100,EU27_2020,2024,31784.991,EU27 (Eurostat aggregate),Hydropower
+RA100,EU27_2020,2024,31784.991,EU27 (total of EU),Hydropower
 RA100,FI,2024,1229.513,Finland,Hydropower
 RA100,FR,2024,6114.866,France,Hydropower
 RA100,HR,2024,578.418,Croatia,Hydropower
@@ -9368,7 +9368,7 @@ RA300,DK,2024,1767.226,Denmark,Wind power
 RA300,EE,2024,100.335,Estonia,Wind power
 RA300,EL,2024,1043.526,Greece,Wind power
 RA300,ES,2024,5338.761,Spain,Wind power
-RA300,EU27_2020,2024,42118.286,EU27 (Eurostat aggregate),Wind power
+RA300,EU27_2020,2024,42118.286,EU27 (total of EU),Wind power
 RA300,FI,2024,1809.652,Finland,Wind power
 RA300,FR,2024,4084.211,France,Wind power
 RA300,HR,2024,221.548,Croatia,Wind power
@@ -9396,7 +9396,7 @@ RA410,DK,2024,0.0,Denmark,Solar photovoltaic
 RA410,EE,2024,0.0,Estonia,Solar photovoltaic
 RA410,EL,2024,0.0,Greece,Solar photovoltaic
 RA410,ES,2024,390.372,Spain,Solar photovoltaic
-RA410,EU27_2020,2024,390.372,EU27 (Eurostat aggregate),Solar photovoltaic
+RA410,EU27_2020,2024,390.372,EU27 (total of EU),Solar photovoltaic
 RA410,FI,2024,0.0,Finland,Solar photovoltaic
 RA410,FR,2024,0.0,France,Solar photovoltaic
 RA410,HR,2024,0.0,Croatia,Solar photovoltaic
@@ -9424,7 +9424,7 @@ RA420,DK,2024,324.695,Denmark,Solar thermal
 RA420,EE,2024,73.537,Estonia,Solar thermal
 RA420,EL,2024,968.049,Greece,Solar thermal
 RA420,ES,2024,4621.878,Spain,Solar thermal
-RA420,EU27_2020,2024,26007.449,EU27 (Eurostat aggregate),Solar thermal
+RA420,EU27_2020,2024,26007.449,EU27 (total of EU),Solar thermal
 RA420,FI,2024,80.82,Finland,Solar thermal
 RA420,FR,2024,2138.551,France,Solar thermal
 RA420,HR,2024,70.507,Croatia,Solar thermal
@@ -9452,7 +9452,7 @@ RA500,DK,2024,0.0,Denmark,Other renewables
 RA500,EE,2024,0.0,Estonia,Other renewables
 RA500,EL,2024,0.0,Greece,Other renewables
 RA500,ES,2024,0.771,Spain,Other renewables
-RA500,EU27_2020,2024,40.224,EU27 (Eurostat aggregate),Other renewables
+RA500,EU27_2020,2024,40.224,EU27 (total of EU),Other renewables
 RA500,FI,2024,0.0,Finland,Other renewables
 RA500,FR,2024,39.453,France,Other renewables
 RA500,HR,2024,0.0,Croatia,Other renewables
@@ -9480,7 +9480,7 @@ TOTAL,DK,2024,3036.765,Denmark,All energy sources
 TOTAL,EE,2024,532.45,Estonia,All energy sources
 TOTAL,EL,2024,4980.602,Greece,All energy sources
 TOTAL,ES,2024,24754.3,Spain,All energy sources
-TOTAL,EU27_2020,2024,243076.406,EU27 (Eurostat aggregate),All energy sources
+TOTAL,EU27_2020,2024,243076.406,EU27 (total of EU),All energy sources
 TOTAL,FI,2024,7149.87,Finland,All energy sources
 TOTAL,FR,2024,49072.461,France,All energy sources
 TOTAL,HR,2024,1323.5,Croatia,All energy sources
@@ -9498,333 +9498,333 @@ TOTAL,RO,2024,4589.512,Romania,All energy sources
 TOTAL,SE,2024,14820.894,Sweden,All energy sources
 TOTAL,SI,2024,1461.108,Slovenia,All energy sources
 TOTAL,SK,2024,2585.125,Slovakia,All energy sources
-BIOE,EU27_AVG,1995,63.084037037037035,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,1996,61.83955555555556,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,1997,75.73781481481481,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,1998,84.37985185185187,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,1999,86.32900000000001,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2000,96.01314814814815,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2001,101.64522222222222,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2002,117.2551111111111,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2003,137.52262962962962,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2004,168.09025925925926,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2005,194.3535185185185,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2006,222.58855555555553,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2007,249.85014814814818,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2008,280.52403703703703,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2009,309.6474074074074,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2010,355.38392592592595,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2011,379.11137037037037,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2012,423.3883703703704,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2013,443.3756296296296,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2014,459.7677777777778,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2015,476.1242222222222,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2016,481.8714444444444,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2017,490.265962962963,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2018,496.4475555555556,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2019,510.68107407407405,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2020,520.8883333333333,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2021,554.045,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2022,535.7217407407408,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2023,512.1155555555555,EU27 (average of countries),Bioenergy
-BIOE,EU27_AVG,2024,513.1505925925926,EU27 (average of countries),Bioenergy
-C0000X0350-0370,EU27_AVG,1995,2470.959592592593,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,1996,2524.2714814814817,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,1997,2435.6167037037035,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,1998,2463.2814814814815,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,1999,2416.3784814814812,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2000,2548.7723703703705,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2001,2525.097925925926,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2002,2593.4014814814814,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2003,2704.1941851851852,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2004,2660.9694074074073,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2005,2575.975888888889,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2006,2600.2327037037035,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2007,2639.4235925925927,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2008,2410.920222222222,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2009,2240.612777777778,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2010,2233.145888888889,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2011,2308.2921111111114,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2012,2365.258,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2013,2321.359888888889,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2014,2206.2,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2015,2245.2438888888887,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2016,2099.135962962963,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2017,2034.7709259259261,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2018,1896.8026296296293,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2019,1435.9790740740739,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2020,1122.3113333333333,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2021,1334.9348518518518,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2022,1428.4755555555555,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2023,1014.9084444444445,EU27 (average of countries),Other / combined category
-C0000X0350-0370,EU27_AVG,2024,863.0701111111111,EU27 (average of countries),Other / combined category
-FE,EU27_AVG,1995,3957.300925925926,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,1996,4089.4494074074078,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,1997,4066.477925925926,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,1998,4190.713740740741,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,1999,4217.51137037037,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2000,4334.457814814815,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2001,4391.116740740741,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2002,4553.525111111111,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2003,4769.518999999999,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2004,4778.556592592593,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2005,4850.8713333333335,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2006,4946.734148148148,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2007,5042.072999999999,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2008,4902.730037037038,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2009,4515.842888888889,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2010,4595.941703703704,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2011,4548.703148148148,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2012,4350.1393333333335,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2013,4057.9667407407405,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2014,3750.401851851852,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2015,3917.1245555555556,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2016,3996.6296296296296,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2017,4112.061481481482,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2018,3850.8868888888887,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2019,3607.468814814815,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2020,3223.2110740740736,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2021,3414.5148148148146,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2022,3484.1392962962964,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2023,2776.2967037037038,EU27 (average of countries),Final energy consumption (context)
-FE,EU27_AVG,2024,2556.9765555555555,EU27 (average of countries),Final energy consumption (context)
-N900H,EU27_AVG,1995,2521.75737037037,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,1996,2647.266,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,1997,2673.4053333333336,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,1998,2653.944111111111,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,1999,2701.350222222222,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2000,2738.543407407407,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2001,2830.7761111111113,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2002,2873.628222222222,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2003,2888.997185185185,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2004,2956.7147777777777,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2005,2917.362481481481,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2006,2912.0918888888887,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2007,2777.7746296296295,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2008,2817.518555555556,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2009,2627.0245925925924,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2010,2721.1554074074074,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2011,2667.968407407407,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2012,2585.7807777777775,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2013,2567.5063333333333,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2014,2587.6564444444443,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2015,2505.2573333333335,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2016,2445.6506666666664,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2017,2418.339037037037,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2018,2426.492925925926,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2019,2437.3041111111115,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2020,2176.721,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2021,2330.183148148148,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2022,1940.2423703703705,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2023,1973.1897777777776,EU27 (average of countries),Heat pumps (renewable)
-N900H,EU27_AVG,2024,2068.4806296296297,EU27 (average of countries),Heat pumps (renewable)
-RA000,EU27_AVG,1995,1123.3356666666666,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,1996,1131.6058518518519,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,1997,1167.9493703703704,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,1998,1225.1355185185184,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,1999,1230.3993333333333,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2000,1296.1334074074073,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2001,1389.5587777777778,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2002,1241.9965925925926,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2003,1265.8295185185184,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2004,1401.853148148148,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2005,1412.2862222222222,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2006,1487.761037037037,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2007,1579.8678518518518,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2008,1721.5452962962963,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2009,1818.1498148148148,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2010,2078.351333333333,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2011,2056.8689999999997,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2012,2321.093962962963,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2013,2571.975777777778,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2014,2668.925777777778,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2015,2729.4265555555558,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2016,2778.0331111111113,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2017,2787.721444444444,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2018,2997.118148148148,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2019,3116.940814814815,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2020,3377.2698518518514,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2021,3434.8237407407405,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2022,3444.3024814814817,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2023,3915.450925925926,EU27 (average of countries),Renewables (total)
-RA000,EU27_AVG,2024,4238.199814814815,EU27 (average of countries),Renewables (total)
-RA100,EU27_AVG,1995,1035.739925925926,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,1996,1041.9645185185184,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,1997,1056.5185555555556,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,1998,1092.1484444444443,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,1999,1085.4017037037038,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2000,1115.1985555555557,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2001,1189.1772222222223,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2002,995.5248888888889,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2003,970.2130740740741,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2004,1029.2945925925926,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2005,977.7081851851851,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2006,987.1883703703703,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2007,979.9201851851852,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2008,1036.920037037037,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2009,1047.735222222222,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2010,1184.1180000000002,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2011,979.0305925925926,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2012,1056.2486296296297,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2013,1171.9795925925926,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2014,1178.463148148148,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2015,1069.991962962963,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2016,1100.5757777777778,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2017,937.3777037037037,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2018,1095.128888888889,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2019,1019.8991111111112,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2020,1105.408,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2021,1108.9750740740742,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2022,879.5589629629629,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2023,1052.3178888888888,EU27 (average of countries),Hydropower
-RA100,EU27_AVG,2024,1177.2218888888888,EU27 (average of countries),Hydropower
-RA300,EU27_AVG,1995,11.710333333333333,EU27 (average of countries),Wind power
-RA300,EU27_AVG,1996,13.976259259259258,EU27 (average of countries),Wind power
-RA300,EU27_AVG,1997,21.317000000000004,EU27 (average of countries),Wind power
-RA300,EU27_AVG,1998,33.11844444444444,EU27 (average of countries),Wind power
-RA300,EU27_AVG,1999,42.53285185185185,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2000,67.76866666666666,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2001,81.9847037037037,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2002,111.68103703703703,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2003,137.94096296296297,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2004,183.23485185185186,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2005,216.9135925925926,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2006,250.75048148148147,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2007,318.26985185185185,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2008,360.73644444444443,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2009,396.8185925925926,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2010,445.5042222222222,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2011,527.622037037037,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2012,598.2135555555556,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2013,668.4169629629629,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2014,709.5160000000001,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2015,839.9425925925926,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2016,851.4138518518519,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2017,996.587037037037,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2018,1023.3505555555556,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2019,1172.0012222222222,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2020,1270.137,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2021,1234.1415185185183,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2022,1345.9944074074074,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2023,1530.0492592592593,EU27 (average of countries),Wind power
-RA300,EU27_AVG,2024,1559.9365185185186,EU27 (average of countries),Wind power
-RA410,EU27_AVG,1995,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,1996,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,1997,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,1998,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,1999,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2000,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2001,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2002,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2003,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2004,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2005,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2006,0.0,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2007,0.025518518518518517,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2008,0.0514074074074074,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2009,0.328,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2010,2.424111111111111,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2011,6.238666666666666,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2012,12.022037037037038,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2013,15.18977777777778,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2014,17.371444444444446,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2015,17.812296296296296,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2016,17.767592592592592,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2017,18.735074074074074,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2018,15.499518518518519,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2019,18.098148148148148,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2020,15.897592592592593,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2021,16.483555555555554,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2022,14.445407407407409,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2023,16.44851851851852,EU27 (average of countries),Solar photovoltaic
-RA410,EU27_AVG,2024,14.458222222222222,EU27 (average of countries),Solar photovoltaic
-RA420,EU27_AVG,1995,0.1464074074074074,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,1996,0.1632962962962963,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,1997,0.19566666666666666,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,1998,0.26914814814814814,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,1999,0.27699999999999997,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2000,0.36059259259259263,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2001,0.5748518518518518,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2002,0.8478518518518519,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2003,1.3227037037037037,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2004,2.2003333333333335,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2005,4.645370370370371,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2006,7.927999999999999,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2007,11.994888888888887,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2008,23.63448148148148,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2009,44.587740740740735,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2010,71.61151851851852,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2011,144.49496296296297,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2012,211.36922222222222,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2013,252.73700000000002,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2014,282.529962962963,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2015,303.37255555555555,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2016,303.9906296296296,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2017,322.69444444444446,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2018,345.2661111111111,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2019,375.3714074074074,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2020,444.9074074074074,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2021,506.3807037037037,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2022,655.8492222222222,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2023,793.9057777777779,EU27 (average of countries),Solar thermal
-RA420,EU27_AVG,2024,963.2388518518519,EU27 (average of countries),Solar thermal
-RA500,EU27_AVG,1995,1.615925925925926,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,1996,1.5625185185185186,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,1997,1.6225925925925926,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,1998,1.6614074074074072,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,1999,1.640037037037037,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2000,1.6155925925925927,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2001,1.5443333333333333,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2002,1.5745925925925928,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2003,1.5616296296296297,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2004,1.4973333333333332,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2005,1.5314814814814814,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2006,1.4785185185185186,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2007,1.4817777777777779,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2008,1.4812222222222222,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2009,1.4273333333333331,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2010,1.5171481481481481,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2011,1.519962962962963,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2012,1.4585185185185185,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2013,1.317074074074074,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2014,1.5302962962962965,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2015,1.5522962962962963,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2016,1.594111111111111,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2017,1.6614814814814816,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2018,1.5284074074074074,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2019,1.589,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2020,1.6202222222222222,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2021,1.601222222222222,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2022,1.6352592592592592,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2023,1.4689999999999999,EU27 (average of countries),Other renewables
-RA500,EU27_AVG,2024,1.4897777777777779,EU27 (average of countries),Other renewables
-TOTAL,EU27_AVG,1995,7672.878740740741,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,1996,7944.793518518519,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,1997,7980.681814814815,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,1998,8151.228370370371,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,1999,8236.432296296296,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2000,8465.663962962963,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2001,8706.881185185184,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2002,8779.065333333334,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2003,9034.849037037036,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2004,9260.96351851852,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2005,9320.286407407408,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2006,9470.393777777777,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2007,9515.026666666667,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2008,9549.870333333334,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2009,9064.982,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2010,9503.228074074073,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2011,9371.09888888889,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2012,9361.142444444444,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2013,9303.527037037036,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2014,9113.717814814814,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2015,9258.067037037037,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2016,9326.770481481482,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2017,9429.050592592594,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2018,9375.70162962963,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2019,9260.155333333332,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2020,8885.689148148147,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2021,9287.667851851853,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2022,8992.097148148148,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2023,8792.537925925926,EU27 (average of countries),All energy sources
-TOTAL,EU27_AVG,2024,9002.829851851853,EU27 (average of countries),All energy sources
+BIOE,EU27_AVG,1995,63.084037037037035,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,1996,61.83955555555556,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,1997,75.73781481481481,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,1998,84.37985185185187,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,1999,86.32900000000001,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2000,96.01314814814815,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2001,101.64522222222222,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2002,117.2551111111111,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2003,137.52262962962962,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2004,168.09025925925926,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2005,194.3535185185185,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2006,222.58855555555553,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2007,249.85014814814818,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2008,280.52403703703703,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2009,309.6474074074074,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2010,355.38392592592595,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2011,379.11137037037037,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2012,423.3883703703704,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2013,443.3756296296296,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2014,459.7677777777778,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2015,476.1242222222222,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2016,481.8714444444444,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2017,490.265962962963,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2018,496.4475555555556,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2019,510.68107407407405,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2020,520.8883333333333,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2021,554.045,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2022,535.7217407407408,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2023,512.1155555555555,EU27 (average of EU),Bioenergy
+BIOE,EU27_AVG,2024,513.1505925925926,EU27 (average of EU),Bioenergy
+C0000X0350-0370,EU27_AVG,1995,2470.959592592593,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,1996,2524.2714814814817,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,1997,2435.6167037037035,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,1998,2463.2814814814815,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,1999,2416.3784814814812,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2000,2548.7723703703705,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2001,2525.097925925926,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2002,2593.4014814814814,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2003,2704.1941851851852,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2004,2660.9694074074073,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2005,2575.975888888889,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2006,2600.2327037037035,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2007,2639.4235925925927,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2008,2410.920222222222,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2009,2240.612777777778,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2010,2233.145888888889,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2011,2308.2921111111114,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2012,2365.258,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2013,2321.359888888889,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2014,2206.2,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2015,2245.2438888888887,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2016,2099.135962962963,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2017,2034.7709259259261,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2018,1896.8026296296293,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2019,1435.9790740740739,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2020,1122.3113333333333,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2021,1334.9348518518518,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2022,1428.4755555555555,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2023,1014.9084444444445,EU27 (average of EU),Other / combined category
+C0000X0350-0370,EU27_AVG,2024,863.0701111111111,EU27 (average of EU),Other / combined category
+FE,EU27_AVG,1995,3957.300925925926,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,1996,4089.4494074074078,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,1997,4066.477925925926,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,1998,4190.713740740741,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,1999,4217.51137037037,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2000,4334.457814814815,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2001,4391.116740740741,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2002,4553.525111111111,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2003,4769.518999999999,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2004,4778.556592592593,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2005,4850.8713333333335,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2006,4946.734148148148,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2007,5042.072999999999,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2008,4902.730037037038,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2009,4515.842888888889,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2010,4595.941703703704,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2011,4548.703148148148,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2012,4350.1393333333335,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2013,4057.9667407407405,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2014,3750.401851851852,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2015,3917.1245555555556,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2016,3996.6296296296296,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2017,4112.061481481482,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2018,3850.8868888888887,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2019,3607.468814814815,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2020,3223.2110740740736,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2021,3414.5148148148146,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2022,3484.1392962962964,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2023,2776.2967037037038,EU27 (average of EU),Final energy consumption (context)
+FE,EU27_AVG,2024,2556.9765555555555,EU27 (average of EU),Final energy consumption (context)
+N900H,EU27_AVG,1995,2521.75737037037,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,1996,2647.266,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,1997,2673.4053333333336,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,1998,2653.944111111111,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,1999,2701.350222222222,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2000,2738.543407407407,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2001,2830.7761111111113,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2002,2873.628222222222,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2003,2888.997185185185,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2004,2956.7147777777777,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2005,2917.362481481481,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2006,2912.0918888888887,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2007,2777.7746296296295,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2008,2817.518555555556,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2009,2627.0245925925924,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2010,2721.1554074074074,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2011,2667.968407407407,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2012,2585.7807777777775,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2013,2567.5063333333333,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2014,2587.6564444444443,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2015,2505.2573333333335,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2016,2445.6506666666664,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2017,2418.339037037037,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2018,2426.492925925926,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2019,2437.3041111111115,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2020,2176.721,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2021,2330.183148148148,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2022,1940.2423703703705,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2023,1973.1897777777776,EU27 (average of EU),Heat pumps (renewable)
+N900H,EU27_AVG,2024,2068.4806296296297,EU27 (average of EU),Heat pumps (renewable)
+RA000,EU27_AVG,1995,1123.3356666666666,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,1996,1131.6058518518519,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,1997,1167.9493703703704,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,1998,1225.1355185185184,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,1999,1230.3993333333333,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2000,1296.1334074074073,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2001,1389.5587777777778,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2002,1241.9965925925926,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2003,1265.8295185185184,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2004,1401.853148148148,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2005,1412.2862222222222,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2006,1487.761037037037,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2007,1579.8678518518518,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2008,1721.5452962962963,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2009,1818.1498148148148,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2010,2078.351333333333,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2011,2056.8689999999997,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2012,2321.093962962963,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2013,2571.975777777778,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2014,2668.925777777778,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2015,2729.4265555555558,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2016,2778.0331111111113,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2017,2787.721444444444,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2018,2997.118148148148,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2019,3116.940814814815,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2020,3377.2698518518514,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2021,3434.8237407407405,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2022,3444.3024814814817,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2023,3915.450925925926,EU27 (average of EU),Renewables (total)
+RA000,EU27_AVG,2024,4238.199814814815,EU27 (average of EU),Renewables (total)
+RA100,EU27_AVG,1995,1035.739925925926,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,1996,1041.9645185185184,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,1997,1056.5185555555556,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,1998,1092.1484444444443,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,1999,1085.4017037037038,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2000,1115.1985555555557,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2001,1189.1772222222223,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2002,995.5248888888889,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2003,970.2130740740741,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2004,1029.2945925925926,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2005,977.7081851851851,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2006,987.1883703703703,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2007,979.9201851851852,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2008,1036.920037037037,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2009,1047.735222222222,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2010,1184.1180000000002,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2011,979.0305925925926,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2012,1056.2486296296297,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2013,1171.9795925925926,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2014,1178.463148148148,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2015,1069.991962962963,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2016,1100.5757777777778,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2017,937.3777037037037,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2018,1095.128888888889,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2019,1019.8991111111112,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2020,1105.408,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2021,1108.9750740740742,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2022,879.5589629629629,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2023,1052.3178888888888,EU27 (average of EU),Hydropower
+RA100,EU27_AVG,2024,1177.2218888888888,EU27 (average of EU),Hydropower
+RA300,EU27_AVG,1995,11.710333333333333,EU27 (average of EU),Wind power
+RA300,EU27_AVG,1996,13.976259259259258,EU27 (average of EU),Wind power
+RA300,EU27_AVG,1997,21.317000000000004,EU27 (average of EU),Wind power
+RA300,EU27_AVG,1998,33.11844444444444,EU27 (average of EU),Wind power
+RA300,EU27_AVG,1999,42.53285185185185,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2000,67.76866666666666,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2001,81.9847037037037,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2002,111.68103703703703,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2003,137.94096296296297,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2004,183.23485185185186,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2005,216.9135925925926,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2006,250.75048148148147,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2007,318.26985185185185,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2008,360.73644444444443,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2009,396.8185925925926,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2010,445.5042222222222,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2011,527.622037037037,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2012,598.2135555555556,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2013,668.4169629629629,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2014,709.5160000000001,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2015,839.9425925925926,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2016,851.4138518518519,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2017,996.587037037037,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2018,1023.3505555555556,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2019,1172.0012222222222,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2020,1270.137,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2021,1234.1415185185183,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2022,1345.9944074074074,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2023,1530.0492592592593,EU27 (average of EU),Wind power
+RA300,EU27_AVG,2024,1559.9365185185186,EU27 (average of EU),Wind power
+RA410,EU27_AVG,1995,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,1996,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,1997,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,1998,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,1999,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2000,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2001,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2002,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2003,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2004,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2005,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2006,0.0,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2007,0.025518518518518517,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2008,0.0514074074074074,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2009,0.328,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2010,2.424111111111111,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2011,6.238666666666666,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2012,12.022037037037038,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2013,15.18977777777778,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2014,17.371444444444446,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2015,17.812296296296296,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2016,17.767592592592592,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2017,18.735074074074074,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2018,15.499518518518519,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2019,18.098148148148148,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2020,15.897592592592593,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2021,16.483555555555554,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2022,14.445407407407409,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2023,16.44851851851852,EU27 (average of EU),Solar photovoltaic
+RA410,EU27_AVG,2024,14.458222222222222,EU27 (average of EU),Solar photovoltaic
+RA420,EU27_AVG,1995,0.1464074074074074,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,1996,0.1632962962962963,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,1997,0.19566666666666666,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,1998,0.26914814814814814,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,1999,0.27699999999999997,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2000,0.36059259259259263,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2001,0.5748518518518518,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2002,0.8478518518518519,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2003,1.3227037037037037,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2004,2.2003333333333335,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2005,4.645370370370371,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2006,7.927999999999999,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2007,11.994888888888887,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2008,23.63448148148148,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2009,44.587740740740735,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2010,71.61151851851852,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2011,144.49496296296297,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2012,211.36922222222222,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2013,252.73700000000002,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2014,282.529962962963,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2015,303.37255555555555,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2016,303.9906296296296,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2017,322.69444444444446,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2018,345.2661111111111,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2019,375.3714074074074,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2020,444.9074074074074,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2021,506.3807037037037,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2022,655.8492222222222,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2023,793.9057777777779,EU27 (average of EU),Solar thermal
+RA420,EU27_AVG,2024,963.2388518518519,EU27 (average of EU),Solar thermal
+RA500,EU27_AVG,1995,1.615925925925926,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,1996,1.5625185185185186,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,1997,1.6225925925925926,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,1998,1.6614074074074072,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,1999,1.640037037037037,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2000,1.6155925925925927,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2001,1.5443333333333333,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2002,1.5745925925925928,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2003,1.5616296296296297,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2004,1.4973333333333332,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2005,1.5314814814814814,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2006,1.4785185185185186,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2007,1.4817777777777779,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2008,1.4812222222222222,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2009,1.4273333333333331,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2010,1.5171481481481481,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2011,1.519962962962963,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2012,1.4585185185185185,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2013,1.317074074074074,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2014,1.5302962962962965,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2015,1.5522962962962963,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2016,1.594111111111111,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2017,1.6614814814814816,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2018,1.5284074074074074,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2019,1.589,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2020,1.6202222222222222,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2021,1.601222222222222,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2022,1.6352592592592592,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2023,1.4689999999999999,EU27 (average of EU),Other renewables
+RA500,EU27_AVG,2024,1.4897777777777779,EU27 (average of EU),Other renewables
+TOTAL,EU27_AVG,1995,7672.878740740741,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,1996,7944.793518518519,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,1997,7980.681814814815,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,1998,8151.228370370371,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,1999,8236.432296296296,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2000,8465.663962962963,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2001,8706.881185185184,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2002,8779.065333333334,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2003,9034.849037037036,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2004,9260.96351851852,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2005,9320.286407407408,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2006,9470.393777777777,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2007,9515.026666666667,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2008,9549.870333333334,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2009,9064.982,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2010,9503.228074074073,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2011,9371.09888888889,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2012,9361.142444444444,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2013,9303.527037037036,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2014,9113.717814814814,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2015,9258.067037037037,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2016,9326.770481481482,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2017,9429.050592592594,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2018,9375.70162962963,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2019,9260.155333333332,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2020,8885.689148148147,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2021,9287.667851851853,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2022,8992.097148148148,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2023,8792.537925925926,EU27 (average of EU),All energy sources
+TOTAL,EU27_AVG,2024,9002.829851851853,EU27 (average of EU),All energy sources
