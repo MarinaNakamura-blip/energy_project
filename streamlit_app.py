@@ -1,114 +1,93 @@
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import streamlit as st
+from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share_with_total, renewables_boxplot, renewables_vs_nonrenewables_bar
 
-st.set_page_config(layout="wide") # Full browser width
-sns.set_theme(style="darkgrid")
-st.title("Swedish Energy Production Dashboard")
+TREND_ENERGY_OPTIONS = ["Bioenergy", "Hydropower", "Wind power", "Solar photovoltaic", "Solar thermal", "Heat pumps (renewable)", "Renewables (total)"]
 
-@st.cache_data # Only read this file once unless it changes
-def load_tidy():
-    return pd.read_csv("data/tidy_energy.csv") 
+st.set_page_config(page_title="Sweden Renewables Dashboard", layout="wide")
 
-df_long = load_tidy() # Calls the function and stores the tidy dataset in a DataFrame
+df = load_tidy_energy()
 
-countries = sorted(df_long["country"].unique()) # Extracts all available countries and energy sources for dropdowns
-sources = sorted(df_long["energy_source"].unique())
-
-stack_sources = ["Bioenergy", "Hydropower", "Wind power", "Solar photovoltaic", "Solar thermal", "Heat pumps (renewable)"]
-
-def stacked_pivot(df):
-
-source = st.sidebar.selectbox("Energy source", sources) # Adds a dropdown in the sidebar
-compare = st.sidebar.selectbox("Compare Sweden with", [c for c in countries if c not in ["Sweden", "EU27 (average of EU)"]], index=0) # Sweden and EU average is excluded because it’s always included by default
-st.sidebar.caption(f"Showing: Sweden + EU27 (average of EU) + {compare}")
-
-# ================================ 
-# Tab 1: Trend over time 
-# ================================
-with tab1:
-    filtered = df_long[(df_long["energy_source"] == source) & (df_long["country"].isin(["Sweden", "EU27 (average of EU)", compare]))] # Creates a filtered DataFrame
-
-    fig, ax = plt.subplots(figsize=(10, 5))
-    sns.lineplot(data=filtered, x="year", y="electricity_ktoe", hue="country", marker="o", ax=ax, legend=False) # Line chart of electricity production over time
-    for country, df_c in filtered.groupby("country"):
-        last = df_c.sort_values("year").iloc[-1]
-        ax.text(last["year"] + 0.2,last["electricity_ktoe"], f" {country}", va="center", fontsize=9)
-    st.pyplot(fig) # Renders the Matplotlib figure inside the Streamlit app
-
-# ================================ 
-# Tab 2: Renewables mix (stacked)
-# ================================
-with tab2:
-    st.subheader("Sweden: energy mix (latest 15 years)")
-
-    stack_sources = [   # Define what to stack
-        "Bioenergy",
-        "Hydropower",
-        "Wind power",
-        "Solar photovoltaic",
-        "Solar thermal",
-        "Heat pumps (renewable)"
-    ]
+st.title("Welcome to EU Renewable Energy Dashboard!⚡️")
+st.subheader("Explore how sustainable Sweden and other EU countries are, based on their renewable energy production")
+st.write(
+    """
+    This app uses Eurostat energy data to explore renewable energy production across EU, with a focus on Sweden.
     
-    swe = df_long[df_long["country"] == "Sweden"].copy()
-    swe = swe.dropna(subset=["electricity_ktoe"])
+    The data covers electricity production by energy source over 30 years and allows comparison between Sweden, individual EU countries, and EU-wide averages.
 
-    last_year = int(swe["year"].max())
-    first_year = last_year - 14
-    swe_15 = swe[swe["year"].between(first_year, last_year)]
-    
-    swe_stack = swe_15[swe_15["energy_source"].isin(stack_sources)].pivot_table(   
-        index="year",
-        columns="energy_source",
-        values="electricity_ktoe",
-        aggfunc="sum",
-        fill_value=0
+    In this dashboard, you can:
+    - 1. Explore long-term trends in renewable energy production for selected energy sources and countries.
+    - 2. Examine how different renewable sources contribute to total renewable production, and the renewable energy mix of a country over time.
+    - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that highlights typical levels, variability, and outliers over time.
+    """
     )
+
+# Show 3 options as buttons for a better user experience
+page = st.radio("Choose what you want to explore⚡️:", ["1, Trend over time", "2, Renewables mix overview", "3, Sweden vs EU: distribution"], horizontal=True)
     
-    swe_total = swe_15[swe_15["energy_source"] == "All energy sources"].groupby("year")["electricity_ktoe"].sum() # overlay TOTAL as a line
+st.divider()
+
+# ==================================================
+# Page 1: Trend line chart
+# ==================================================
+
+if page == "1, Trend over time":
+    st.header("1, Trend over time")
+    st.write("Pick an energy source and countries to compare the production over 30 years.")
+
+    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS)
+    countries = st.multiselect(
+        "Countries",
+        sorted(df["country"].unique()),
+        default=["Sweden", "EU27 (average of EU)"] if "EU27 (average of EU)" in df["country"].unique() else ["Sweden"]
+    )
+
+    filtered = df[(df["energy_source"] == energy) & (df["country"].isin(countries))]
+
+    fig = renewables_over_time(filtered, energy)
+    st.pyplot(fig, clear_figure=True)
+    st.caption("Sweden’s total renewable energy production has increased steadily over time and remains consistently higher than the EU average.")
     
-    fig1, ax1 = plt.subplots(figsize=(12, 5))
-    swe_stack.plot(kind="bar", stacked=True, ax=ax1)
+# ==================================================
+# Page 2: Stacked bar and area charts
+# ==================================================
 
-    if len(swe_total) > 0:
-        ax1.plot(range(len(swe_total.index)), swe_total.values, marker="o")
-        ax1.set_xticks(range(len(swe_total.index)))
-        ax1.set_xticklabels(swe_total.index, rotation=0)
+elif page == "2, Renewables mix overview":
+    st.header("2, Renewables mix overview")
+    st.write(
+        """
+This section shows two diagrams for the selected country:
+- Renewable vs non-renewable energy in total production
+- Renewable energy mix (share %)
 
-    ax1.set_title("Sweden: Energy production by source (stacked) — latest 15 years")
-    ax1.set_xlabel("Year")
-    ax1.set_ylabel("Electricity (ktoe)")
-    ax1.legend(title="Energy source", bbox_to_anchor=(1.02, 1), loc="upper left")
-    fig1.tight_layout()
-    st.pyplot(fig1)
+"""
+    )
 
+    country = st.selectbox("Country", sorted(df["country"].unique()), index=sorted(df["country"].unique()).index("Sweden") if "Sweden" in df["country"].unique() else 0)
+
+    # --- Chart 1: Renewables vs non-renewables ---
+    st.subheader("Renewables vs non-renewables (total production)")
+    fig1 = renewables_vs_nonrenewables_bar(df, country)
+    st.pyplot(fig1, clear_figure=True)
+    st.caption("Total energy production remains relatively stable over time, while the share of renewable energy increases steadily.")
+    
     st.divider()
-    st.subheader("Sweden vs selected country (1995 / 2014 / 2024)")
-
-    compare2 = st.selectbox("Compare Sweden with", [c for c in countries if c != "Sweden"], index=0, key="compare2")
-
-    years = [1995, 2014, 2024]
-
-    cmp_df = df_long[
-        (df_long["country"].isin(["Sweden", compare2])) &
-        (df_long["year"].isin(years)) &
-        (df_long["energy_source"].isin(stack_sources))
-    ].dropna(subset=["electricity_ktoe"])
-
-    cmp_pivot = cmp_df.pivot_table(index=["year", "country"], columns="energy_source", values="electricity_ktoe", aggfunc="sum", fill_value=0)
     
-     # Create nicer x labels like "1995 Sweden" and "1995 Germany"
-    cmp_pivot.index = [f"{y} {c}" for (y, c) in cmp_pivot.index]
+    # --- Chart 2: Renewable mix (share %) ---
+    st.subheader("Renewable energy mix (share %)")
+    fig2 = renewables_share_with_total(df, country)
+    st.pyplot(fig2, clear_figure=True)
+    st.caption("In general, the renewable energy mix has become more diversified over time, with growing contributions from wind, solar and bioenergy.")
 
-    fig2, ax2 = plt.subplots(figsize=(12, 6))
-    cmp_pivot.plot(kind="bar", stacked=True, ax=ax2)
+# ==================================================
+# Page 3: Box plot
+# ==================================================
 
-    ax2.set_title(f"Energy mix comparison: Sweden vs {compare2} (selected years)")
-    ax2.set_xlabel("Year / Country")
-    ax2.set_ylabel("Electricity (ktoe)")
-    ax2.legend(title="Energy source", bbox_to_anchor=(1.02, 1), loc="upper left")
-    plt.xticks(rotation=45, ha="right")
-    fig2.tight_layout()
-    st.pyplot(fig2)
+else:
+    st.header("3, Sweden vs EU: distribution")
+    st.write("Box plot shows the distribution over many years (median, variation, outliers).")
+
+    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS)
+    fig = renewables_boxplot(df, energy)
+    st.pyplot(fig, clear_figure=True)
+    st.caption("Sweden’s renewable energy production is consistently higher than the EU average, with both a higher typical level and greater variation over time.")
