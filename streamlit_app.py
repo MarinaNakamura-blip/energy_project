@@ -51,7 +51,7 @@ st.divider()
 
 if page == "1, Trend over time":
     st.header("1, Trend over time")
-    st.write("Pick an energy source and countries to compare the production over 30 years.")
+    st.write("Pick an energy source and add countries to compare the production over 30 years.")
 
     energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS) # User selects one renewable category to view as a trend
     countries = st.multiselect(  # User selects one or more countries to add the lines and compare
