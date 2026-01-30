@@ -18,7 +18,7 @@ st.write(
     In this dashboard, you can:
     - 1. Explore long-term trends in renewable energy production for selected energy sources and countries.
     - 2. Examine how renewable energy contributes to total energy production, and how the renewable energy mix changes over time.
-    - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that typical production levels, variation over time, and extreme years.
+    - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that shows typical production levels, variation over time, and extreme years.
     """
     )
 
