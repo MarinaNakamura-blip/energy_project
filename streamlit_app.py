@@ -1,5 +1,5 @@
 import streamlit as st
-from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share, renewables_boxplot, renewables_vs_nonrenewables_bar
+from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share,renewables_boxplot, renewables_vs_nonrenewables_bar, top10_renewable_share, top10_renewable_share_bar
 
 TREND_ENERGY_OPTIONS = ["Bioenergy", "Hydropower", "Wind power", "Solar photovoltaic", "Solar thermal", "Heat pumps (renewable)", "Renewables (total)"]
 
@@ -19,11 +19,13 @@ st.write(
     - 1. Explore long-term trends in renewable energy production for selected energy sources and countries.
     - 2. Examine how renewable energy contributes to total energy production, and how the renewable energy mix changes over time.
     - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that shows typical production levels, variation over time, and extreme years.
+    - 4. See the top 10 countries by renewable energy share relative to total energy production in 2024.
     """
     )
 
 # Show 3 options as buttons for a better user experience
-page = st.radio("Choose what you want to explore⚡️:", ["1, Trend over time", "2, Renewables mix overview", "3, Sweden vs EU: distribution"], horizontal=True)
+page = st.radio("Choose what you want to explore⚡️:",
+                ["1, Trend over time", "2, Renewables mix overview", "3, Sweden vs EU: distribution", "4, Top 10 renewable share (2024)"], horizontal=True)
     
 st.divider()
 
@@ -83,11 +85,24 @@ This section shows two diagrams for the selected country:
 # Page 3: Box plot
 # ==================================================
 
-else:
+elif page == "3, Sweden vs EU: distribution":
     st.header("3, Sweden vs EU: distribution")
-    st.write("Box plot shows the distribution over many years (median, variation, outliers).")
+    st.write("Box plot shows the distribution over the years (median, variation, outliers).")
 
     energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS)
     fig = renewables_boxplot(df, energy)
     st.pyplot(fig, clear_figure=True)
     st.caption("Sweden’s renewable energy production is consistently higher than the EU average, with both a higher typical level and greater variation over time.")
+
+# ==================================================
+# Page 4: Top 10 renewable share in 2024
+# ==================================================
+
+else:
+    st.header("4, Top 10 countries by renewable energy share in 2024")
+    st.write("This ranking shows the countries with the highest share of renewable energy relative to total energy production in 2024.")
+    
+    top10 = top10_renewable_share(df, year=2024)
+    fig = top10_renewable_share_bar(top10, year=2024)
+    st.pyplot(fig, clear_figure=True)
+    

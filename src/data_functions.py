@@ -106,3 +106,28 @@ def renewables_boxplot(df: pd.DataFrame, energy_source: str):
     ax.grid(True, axis="y")
 
     return fig
+
+# ==================================================================
+# Bar chart: ranking of renewables' share in EU
+# ==================================================================
+
+def top10_renewable_share(df, year=2024):
+    d = df[df["year"] == year] # Filter for selected year data
+    # Pivot to get renewables and total energy per country
+    pivot = d.pivot_table(index="country", columns="energy_source", values="electricity_ktoe", aggfunc="sum")
+    pivot = pivot.dropna(subset=["Renewables (total)", "All energy sources"]) # Keep only rows that have both values
+    pivot["renewable_share"] = (pivot["Renewables (total)"] / pivot["All energy sources"]) * 100  # Calculate share with %
+    
+    top10 = (pivot["renewable_share"].sort_values(ascending=False).head(10).reset_index())
+    
+    return top10
+
+def top10_renewable_share_bar(top10_df, year=2024):
+    top10_sorted = top10_df.sort_values("renewable_share")  # nice horizontal order
+
+    fig, ax = plt.subplots(figsize=(10, 4))
+    ax.barh(top10_sorted["country"], top10_sorted["renewable_share"])
+    ax.set_xlabel("Renewable share (%)")
+    ax.set_title(f"Top 10 countries by renewable share ({year})")
+    
+    return fig
