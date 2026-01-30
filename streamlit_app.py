@@ -105,4 +105,4 @@ else:
     top10 = top10_renewable_share(df, year=2024)
     fig = top10_renewable_share_bar(top10, year=2024)
     st.pyplot(fig, clear_figure=True)
-    
+    st.caption("In 2024, Sweden ranks as the 7th country in the EU for renewable energy share, with around 70% of its total energy production coming from renewable sources.")
