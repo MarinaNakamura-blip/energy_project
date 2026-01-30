@@ -1,5 +1,16 @@
+# This file is the Streamlit user interface to visualize Eurostat energy data
+# Reuses functions from src/data_functions.py and keep this file focused on UI only
+
 import streamlit as st
-from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share,renewables_boxplot, renewables_vs_nonrenewables_bar, top10_renewable_share, top10_renewable_share_bar
+from src.data_functions import (
+    load_tidy_energy, 
+    renewables_over_time, 
+    renewables_share,
+    renewables_boxplot, 
+    renewables_vs_nonrenewables_bar, 
+    top10_renewable_share, 
+    top10_renewable_share_bar
+)
 
 TREND_ENERGY_OPTIONS = ["Bioenergy", "Hydropower", "Wind power", "Solar photovoltaic", "Solar thermal", "Heat pumps (renewable)", "Renewables (total)"]
 
@@ -23,7 +34,7 @@ st.write(
     """
     )
 
-# Show 3 options as buttons for a better user experience
+# Page navigation using radio buttons to show 4 options for a better user experience
 page = st.radio("Choose what you want to explore⚡️:",
                 ["1, Trend over time", "2, Renewables mix overview", "3, Sweden vs EU: distribution", "4, Top 10 renewable share (2024)"], horizontal=True)
     
@@ -37,17 +48,17 @@ if page == "1, Trend over time":
     st.header("1, Trend over time")
     st.write("Pick an energy source and countries to compare the production over 30 years.")
 
-    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS)
-    countries = st.multiselect(
+    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS) # User selects one renewable category to view as a trend
+    countries = st.multiselect(  # User selects one or more countries to add the lines and compare
         "Countries",
         sorted(df["country"].unique()),
-        default=["Sweden", "EU27 (average of EU)"] if "EU27 (average of EU)" in df["country"].unique() else ["Sweden"]
+        default=["Sweden", "EU27 (average of EU)"] if "EU27 (average of EU)" in df["country"].unique() else ["Sweden"] # Set default focus on Sweden
     )
 
-    filtered = df[(df["energy_source"] == energy) & (df["country"].isin(countries))]
+    filtered = df[(df["energy_source"] == energy) & (df["country"].isin(countries))] # Filter the dataset based on user input
 
-    fig = renewables_over_time(filtered, energy)
-    st.pyplot(fig, clear_figure=True)
+    fig = renewables_over_time(filtered, energy) 
+    st.pyplot(fig, clear_figure=True) 
     st.caption("Sweden’s total renewable energy production has increased steadily over time and remains consistently higher than the EU average.")
     
 # ==================================================
@@ -64,10 +75,10 @@ This section shows two diagrams for the selected country:
 
 """
     )
-
+    # User selects one country (same selection used for both charts) and default to Sweden
     country = st.selectbox("Country", sorted(df["country"].unique()), index=sorted(df["country"].unique()).index("Sweden") if "Sweden" in df["country"].unique() else 0)
 
-    # --- Chart 1: Renewables vs non-renewables ---
+    # === Chart 1: Renewables vs non-renewables ===
     st.subheader("Renewables vs non-renewables (total production)")
     fig1 = renewables_vs_nonrenewables_bar(df, country)
     st.pyplot(fig1, clear_figure=True)
@@ -75,7 +86,7 @@ This section shows two diagrams for the selected country:
     
     st.divider()
     
-    # --- Chart 2: Renewable mix (share %) ---
+    # === Chart 2: Renewable mix (share %) ===
     st.subheader("Renewable energy mix (share %)")
     fig2 = renewables_share(df, country)
     st.pyplot(fig2, clear_figure=True)
@@ -89,20 +100,20 @@ elif page == "3, Sweden vs EU: distribution":
     st.header("3, Sweden vs EU: distribution")
     st.write("Box plot shows the distribution over the years (median, variation, outliers).")
 
-    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS)
+    energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS) # User choose which renewable category to compare (Sweden vs EU average)
     fig = renewables_boxplot(df, energy)
     st.pyplot(fig, clear_figure=True)
     st.caption("Sweden’s renewable energy production is consistently higher than the EU average, with both a higher typical level and greater variation over time.")
 
 # ==================================================
-# Page 4: Top 10 renewable share in 2024
+# Page 4: Bar chart
 # ==================================================
 
 else:
     st.header("4, Top 10 countries by renewable energy share in 2024")
     st.write("This ranking shows the countries with the highest share of renewable energy relative to total energy production in 2024.")
     
-    top10 = top10_renewable_share(df, year=2024)
-    fig = top10_renewable_share_bar(top10, year=2024)
+    top10 = top10_renewable_share(df, year=2024) # Get top 10 data from the table
+    fig = top10_renewable_share_bar(top10, year=2024) # Create the bar chart
     st.pyplot(fig, clear_figure=True)
-    st.caption("In 2024, Sweden ranks as the 7th country in the EU for renewable energy share, with around 70% of its total energy production coming from renewable sources.")
+    st.caption("In 2024, Sweden ranked as the 7th country in the EU for renewable energy share, with around 70% of its total energy production coming from renewable sources.")
