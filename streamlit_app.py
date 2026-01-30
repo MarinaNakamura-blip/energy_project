@@ -98,7 +98,7 @@ This section shows two diagrams for the selected country:
 
 elif page == "3, Sweden vs EU: distribution":
     st.header("3, Sweden vs EU: distribution")
-    st.write("Box plot shows the distribution over the years (median, variation, outliers).")
+    st.write("Pick an energy source to show a Box plot showing the distribution over the years (median, variation, outliers).")
 
     energy = st.selectbox("Energy source", TREND_ENERGY_OPTIONS) # User choose which renewable category to compare (Sweden vs EU average)
     fig = renewables_boxplot(df, energy)
