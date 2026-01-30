@@ -32,10 +32,32 @@ def renewables_over_time(filtered: pd.DataFrame, energy_source: str):
     return fig
 
 # ==================================================================
-# Stacked area chart: renewables share with total energy production
+# Stacked bar chart: renewables vs non-renewables
 # ==================================================================
 
-def renewables_share_with_total(df, country):
+def renewables_vs_nonrenewables_bar(df, country):
+    d = df[df["country"] == country]
+
+    total = (d[d["energy_source"] == TOTAL_ENERGY_SOURCE].set_index("year")["electricity_ktoe"].sort_index())
+    renew = (d[d["energy_source"] == RENEWABLE_TOTAL].set_index("year")["electricity_ktoe"].reindex(total.index, fill_value=0))
+    nonrenew = (total - renew).clip(lower=0)
+
+    fig, ax = plt.subplots(figsize=(8, 4))
+    ax.bar(total.index, renew, label="Renewables (total)")
+    ax.bar(total.index, nonrenew, bottom=renew, label="Non-renewables (calculated)")
+
+    ax.set_title(f"{country}: Total energy production (renewables vs non-renewables)")
+    ax.set_xlabel("Year")
+    ax.set_ylabel("Electricity production (ktoe)")
+    ax.legend(fontsize=10, bbox_to_anchor=(1.02, 1), loc="upper left")
+
+    return fig
+
+# ==================================================================
+# Stacked area chart: composition of renewable energy sources as %
+# ==================================================================
+
+def renewables_share(df, country):
     d = df[df["country"] == country]
 
     # 1) Pivot chosen renewables (ktoe per year)
@@ -63,30 +85,8 @@ def renewables_share_with_total(df, country):
     ax1.set_ylim(0, 100)
     ax1.set_xlabel("Year")
     ax1.set_ylabel("Renewables share (%)")
-    ax1.set_title(f"{country}: Renewables mix (share %) + total production")
+    ax1.set_title(f"{country}: Renewable energy mix (share %)")
     ax1.legend(fontsize=10, bbox_to_anchor=(1.02, 1), loc="upper left")
-    return fig
-
-# ==================================================================
-# Stacked bar chart: renewables vs non-renewables
-# ==================================================================
-
-def renewables_vs_nonrenewables_bar(df, country):
-    d = df[df["country"] == country]
-
-    total = (d[d["energy_source"] == TOTAL_ENERGY_SOURCE].set_index("year")["electricity_ktoe"].sort_index())
-    renew = (d[d["energy_source"] == RENEWABLE_TOTAL].set_index("year")["electricity_ktoe"].reindex(total.index, fill_value=0))
-    nonrenew = (total - renew).clip(lower=0)
-
-    fig, ax = plt.subplots(figsize=(8, 4))
-    ax.bar(total.index, renew, label="Renewables (total)")
-    ax.bar(total.index, nonrenew, bottom=renew, label="Non-renewables (calculated)")
-
-    ax.set_title(f"{country}: Total energy production (renewables vs non-renewables)")
-    ax.set_xlabel("Year")
-    ax.set_ylabel("Electricity production (ktoe)")
-    ax.legend(fontsize=10, bbox_to_anchor=(1.02, 1), loc="upper left")
-
     return fig
 
 # ==================================================================

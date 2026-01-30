@@ -1,5 +1,5 @@
 import streamlit as st
-from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share_with_total, renewables_boxplot, renewables_vs_nonrenewables_bar
+from src.data_functions import load_tidy_energy, renewables_over_time, renewables_share, renewables_boxplot, renewables_vs_nonrenewables_bar
 
 TREND_ENERGY_OPTIONS = ["Bioenergy", "Hydropower", "Wind power", "Solar photovoltaic", "Solar thermal", "Heat pumps (renewable)", "Renewables (total)"]
 
@@ -17,8 +17,8 @@ st.write(
 
     In this dashboard, you can:
     - 1. Explore long-term trends in renewable energy production for selected energy sources and countries.
-    - 2. Examine how different renewable sources contribute to total renewable production, and the renewable energy mix of a country over time.
-    - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that highlights typical levels, variability, and outliers over time.
+    - 2. Examine how renewable energy contributes to total energy production, and how the renewable energy mix changes over time.
+    - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that typical production levels, variation over time, and extreme years.
     """
     )
 
@@ -75,7 +75,7 @@ This section shows two diagrams for the selected country:
     
     # --- Chart 2: Renewable mix (share %) ---
     st.subheader("Renewable energy mix (share %)")
-    fig2 = renewables_share_with_total(df, country)
+    fig2 = renewables_share(df, country)
     st.pyplot(fig2, clear_figure=True)
     st.caption("In general, the renewable energy mix has become more diversified over time, with growing contributions from wind, solar and bioenergy.")
 

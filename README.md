@@ -21,11 +21,14 @@ The dataset was manually selected from Eurostat to include EU countries, common 
 
 The Streamlit app includes three main views:
 
-- [ Renewable energy trends ]:  Line charts showing how renewable energy production develops over time across countries.
+- [ Renewable energy trends ]:  
+Line charts showing how renewable energy production develops over time across countries.
 
-- [ Renewable energy mix ]:  Stacked charts showing renewables vs non-renewable energy in comparison with total energy production, and how different renewable sources contribute to total renewable production.
+- [ Renewable energy mix ]:  
+Stacked charts showing renewables vs non-renewable energy in comparison with total energy production, and how different renewable sources contribute to total renewable production.
 
-- [ Sweden vs EU comparison ]:  Box plots comparing the distribution of renewable energy production over time in Sweden and the EU average.
+- [ Sweden vs EU comparison ]:  
+Box plots comparing the distribution of renewable energy production over time in Sweden and the EU average.
 
 Each visualization is accompanied by a short interpretation to support understanding.
 
