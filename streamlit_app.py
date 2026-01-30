@@ -26,13 +26,18 @@ st.write(
     
     The data covers electricity production by energy source over 30 years and allows comparison between Sweden, individual EU countries, and EU-wide averages.
 
-    In this dashboard, you can:
+    **In this dashboard, you can:**
     - 1. Explore long-term trends in renewable energy production for selected energy sources and countries.
     - 2. Examine how renewable energy contributes to total energy production, and how the renewable energy mix changes over time.
     - 3. Compare Sweden’s renewable energy production with the EU using a distribution chart that shows typical production levels, variation over time, and extreme years.
     - 4. See the top 10 countries by renewable energy share relative to total energy production in 2024.
     """
     )
+st.markdown(
+    "🔗 **Original data source:** "
+    "[Eurostat – Electricity production by energy source and country]"
+    "(https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh__custom_19676230/default/table)" # External link to Eurostat data
+)
 
 # Page navigation using radio buttons to show 4 options for a better user experience. Simpler than a sidebar.
 page = st.radio("Choose what you want to explore⚡️:",
