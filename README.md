@@ -3,9 +3,12 @@
 ## Overview
 
 This project provides a platform for users to explore **renewable energy production in the European Union using Eurostat energy data**, with a focus on Sweden. 
-The goal is to understand how sustainable Sweden is (and other EU countries) by analyzing long-term trends, energy mix composition, and comparisons between Sweden and the EU.
+The aim is to understand how sustainable Sweden and other EU countries are by analyzing long-term trends, energy mix composition, and comparative performance within the EU.
 
-The project combines data cleaning and visual exploration in Jupyter Notebook, creating functions in Python, and an interactive Streamlit dashboard.
+The project combines:
+- data cleaning exploration in Jupyter Notebook
+- reusable Python functions for analysis and visualization
+- an interactive Streamlit dashboard for presentation
 
 Streamlit app: ([Click here to see the app](https://energyeu.streamlit.app/))
 
@@ -19,16 +22,20 @@ The dataset was manually selected from Eurostat to include EU countries, common 
 
 ## What the dashboard shows ##
 
-The Streamlit app includes three main views:
+The Streamlit app includes four main views:
 
-- [ Renewable energy trends ]:  
-Line charts showing how renewable energy production develops over time across countries.
+1. [ Renewable energy trends ]:  
+- **Line chart** showing how renewable energy production develops over time across countries.
 
-- [ Renewable energy mix ]:  
-Stacked charts showing renewables vs non-renewable energy in comparison with total energy production, and how different renewable sources contribute to total renewable production.
+2. [ Renewable energy mix overview ]:  
+- **Stacked bar chart**: Comparison of renewable vs non-renewable energy within total energy production
+- **Stacked area chart**: Composition of renewable energy sources as shares (%) of total renewable production over time
 
-- [ Sweden vs EU comparison ]:  
-Box plots comparing the distribution of renewable energy production over time in Sweden and the EU average.
+3. [ Sweden vs EU comparison ]:  
+- **Box plots** comparing the distribution of renewable energy production over time in Sweden and the EU average, highlighting typical levels, variation, and extreme years.
+
+4. [Top 10 EU countries on renewable energy share (2024)]:
+- A ranking **bar chart** of the top 10 EU countries based on the share of renewable energy relative to total energy production in 2024.
 
 Each visualization is accompanied by a short interpretation to support understanding.
 
