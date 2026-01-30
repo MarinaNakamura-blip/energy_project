@@ -34,7 +34,7 @@ st.write(
     """
     )
 
-# Page navigation using radio buttons to show 4 options for a better user experience
+# Page navigation using radio buttons to show 4 options for a better user experience. Simpler than a sidebar.
 page = st.radio("Choose what you want to explore⚡️:",
                 ["1, Trend over time", "2, Renewables mix overview", "3, Sweden vs EU: distribution", "4, Top 10 renewable share (2024)"], horizontal=True)
     
